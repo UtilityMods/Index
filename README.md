@@ -3,7 +3,7 @@
 *A-Z*
 | Name | Version  | Accessiblity | Status |
 |:-----|:--------:|:------:|------:|
-| [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14) | **1.16/1.17** | Active Development |
+| [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14) | **1.16/1.17** | Public Open Source | Active Development |
 | [Kami](https://github.com/zeroeightysix/KAMI) | **1.16.5** | Public Open Source | Active Development |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | Public Open Source | Active Development |
 | [Quantum](http://quantumclient.org/) |  **1.16.5**  | Private Closed Source | Active Development |
