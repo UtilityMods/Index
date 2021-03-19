@@ -1,4 +1,5 @@
 ## Index
+[![Discord](https://img.shields.io/discord/821938163269500938)](https://discord.gg/sK4rK2qCn8)
 #### *Utility mods made for fabric*
 *A-Z*
 | Name | Version  | Accessiblity | Development |
