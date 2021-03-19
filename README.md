@@ -16,4 +16,4 @@
 
 ### Contributions
 
-Feel free to fork and create a pr to add any client that isn't here already just be sure to follow same formatting rules.
+Feel free to fork and create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
