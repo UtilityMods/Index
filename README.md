@@ -13,7 +13,7 @@
 | [KAMI](https://github.com/zeroeightysix/KAMI) | **1.16.5** | Public Open Source | Active |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | Public Open Source | Active |
 | [Quantum](http://quantumclient.org/) |  **1.16.5**  | Private Closed Source | Active |
-| [Rhodium](https://github.com/IUDevman/Rhodium) | **1.16.4** | Public Open Source | WIP |
+| [Rhodium](https://github.com/IUDevman/Rhodium) | **1.16.4** | Public Open Source | Active |
 | [Toast Client](https://github.com/RemainingToast/toastclient) | **1.16.5** | Public Open Source | Archived |
 | [Wurst](https://github.com/Wurst-Imperium/Wurst7) | **1.16/1.17** | Public Open Source | Active |
 
