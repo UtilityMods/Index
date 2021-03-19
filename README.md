@@ -2,7 +2,7 @@
 #### *Utility mods made for fabric*
 *A-Z*
 | Name | Version  | Accessiblity | Development |
-|:-----|:--------:|:------:|------:|
+|:-----|:--------:|:------:|:------:|
 | [Aristois](https://aristois.net/) | **1.16.5** | Public Closed Source | Active |
 | [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14) | **1.16/1.17** | Public Open Source | Active |
 | [BleachHack epearl edition](https://github.com/22s/bleachhack-1.16-epearl-edition) | **1.16** | Public Open Source | Active |
