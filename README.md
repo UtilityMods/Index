@@ -1,5 +1,5 @@
-# Index
-### *Utility mods made for fabric*
+## Index
+#### *Utility mods made for fabric*
 *A-Z*
 | Name | Version  | Accessiblity | Development |
 |:-----|:--------:|:------:|------:|
@@ -13,3 +13,7 @@
 | [Toast Client](https://github.com/RemainingToast/toastclient) | **1.16.5** | Public Open Source | Archived |
 
 > Last updated 19/03/2021
+
+### Contributions
+
+Feel free to fork and create a pr to add any client that isn't here already just be sure to follow same formatting rules.
