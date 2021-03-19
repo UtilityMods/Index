@@ -6,7 +6,7 @@
 | [Aristois](https://aristois.net/) | **1.16.5** | Public Closed Source | Active |
 | [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14) | **1.16/1.17** | Public Open Source | Active |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | Public Closed Source | Active |
-| [Kami](https://github.com/zeroeightysix/KAMI) | **1.16.5** | Public Open Source | Active |
+| [KAMI](https://github.com/zeroeightysix/KAMI) | **1.16.5** | Public Open Source | Active |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | Public Open Source | Active |
 | [Quantum](http://quantumclient.org/) |  **1.16.5**  | Private Closed Source | Active |
 | [Rhodium](https://github.com/IUDevman/Rhodium) | **1.16.4** | Public Open Source | WIP |
