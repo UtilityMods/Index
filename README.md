@@ -5,6 +5,7 @@
 |:-----|:--------:|:------:|------:|
 | [Aristois](https://aristois.net/) | **1.16.5** | Public Closed Source | Active |
 | [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14) | **1.16/1.17** | Public Open Source | Active |
+| [BleachHack epearl edition](https://github.com/22s/bleachhack-1.16-epearl-edition) | **1.16** | Public Open Source | Active |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | Public Closed Source | Active |
 | [Kami](https://github.com/zeroeightysix/KAMI) | **1.16.5** | Public Open Source | Active |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | Public Open Source | Active |
@@ -17,4 +18,4 @@
 
 ### Contributions
 
-Feel free to fork and create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
+Feel free to fork and create a pr to add any client that isn't here already just be sure to follow same formatting rules.
