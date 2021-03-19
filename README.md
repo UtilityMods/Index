@@ -14,7 +14,7 @@
 | [Quantum](http://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Private/Closed Source | Active |
 | Rhodium | **1.16.4** | unknown | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/YPAUujrrb9) | [GitHub](https://github.com/RemainingToast/toastclient) | Archived |
-| Wurst | **1.16/1.17** | [Forum](https://www.wurstclient.net/tutorials/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
+| [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Forum](https://www.wurstclient.net/tutorials/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
 > Last updated 19/03/2021
 
