@@ -24,6 +24,7 @@ Sorted: *A-Z*
 | Name | Version | Support | Development Status |
 |:-:|:-:|:-:|:-:|
 | [Quantum](http://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
+| Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Active |
 
 > Last updated 21/03/2021
 
