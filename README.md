@@ -1,6 +1,8 @@
 # Index of Fabric Utility Mods:
 
-## Public
+Sorted: *A-Z*
+
+### Public
 
 | Name | Version | Support | Source | Development Status |
 |:-:|:-:|:-:|:-:|:-:|
@@ -17,7 +19,7 @@
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/YPAUujrrb9) | [GitHub](https://github.com/RemainingToast/toastclient) | Archived |
 | [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Forum](https://www.wurstclient.net/tutorials/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
-## Private
+### Private
 
 | Name | Version | Support | Development Status |
 |:-:|:-:|:-:|:-:|
