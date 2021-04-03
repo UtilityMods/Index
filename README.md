@@ -28,7 +28,7 @@ Sorted: *A-Z*
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Active |
 | [Quantum](http://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
 
-> Last updated 21/03/2021
+> Last updated 03/04/2021
 
 ### Contributions  
 Feel free to create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
