@@ -15,6 +15,7 @@ Sorted: *A-Z*
 | GS-Fabric | **1.16** | [Discord](https://discord.gg/xfgPw63) | [GitHub](https://github.com/IUDevman/gamesense-client) | WIP |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | KAMI | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
+| Lumen | **1.16.5** | [Discord](https://discord.gg/ETuYyhxKcy) | [GitHub](https://github.com/olliem5/lumen) | WIP |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
 | Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/YPAUujrrb9) | [GitHub](https://github.com/RemainingToast/toastclient) | Archived |
