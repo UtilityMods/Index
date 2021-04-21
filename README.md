@@ -28,7 +28,7 @@ Sorted: *A-Z*
 | Name | Version | Support | Development Status |
 |:-:|:-:|:-:|:-:|
 | Basilisk | **1.16.5** | N/A | WIP |
-| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | WIP |
+| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Discontinued |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Active |
 | [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
 
