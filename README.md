@@ -8,7 +8,7 @@ Sorted: *A-Z*
 |:-:|:-:|:-:|:-:|:-:|
 | [Aristois](https://aristois.net/) | **1.16.5** | [Forum](https://discuss.aristois.net/) | Closed | Active |
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
-| Bleach | **1.16/1.17** | [Discord](https://discord.com/invite/qQUNcnBc) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
+| [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://discord.com/invite/qQUNcnBc) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
 | Bleach epearl edition | **1.16** | [Discord](https://discord.com/invite/FMNCMnTF) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Active |
 | BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
 | [Cornos](https://cornos.cf) | **1.16.5** | N/A | [GitHub](https://github.com/AriliusClient/Cornos) | Active |
