@@ -29,10 +29,10 @@ Sorted: *A-Z*
 | Name | Version | Support | Development Status |
 |:-:|:-:|:-:|:-:|
 | Basilisk | **1.16.5** | N/A | Inactive |
+| [beach house](https://beach-house-development.github.io/website/) |  **1.16.5**  | [GitHub](https://github.com/beach-house-development) | WIP |
 | FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Discontinued |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Active |
 | [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
-| [beach house](https://beach-house-development.github.io/website/) |  **1.16.5**  | [GitHub](https://github.com/beach-house-development) | WIP |
 
 Last updated 22/04/2021
 
