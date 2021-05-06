@@ -1,6 +1,10 @@
-# Index of Fabric Utility Mods:
+# Index of all Minecraft Utility Mods:
+*(we know of)
 
 Sorted: *A-Z*
+Last updated 30/04/2021
+
+## Fabric
 
 ### Public
 
@@ -35,7 +39,5 @@ Sorted: *A-Z*
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Inactive |
 | [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
 
-Last updated 30/04/2021
-
-### Contributions  
+## Contributions  
 Feel free to create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
