@@ -27,6 +27,7 @@ Last updated 06/05/2021
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
 | Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/YPAUujrrb9) | [GitHub](https://github.com/RemainingToast/toastclient) | Archived |
+| Urmonia | **1.16.5** | [Github](https://github.com/codex1729/urmomia) | [Discord](https://discord.gg/Eur9N2c8SV) | Active |
 | [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
 ### Private
