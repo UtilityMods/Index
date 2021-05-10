@@ -39,5 +39,29 @@ Last updated 06/05/2021
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Inactive |
 | [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
 
+## Forge
+
+### Public
+
+| Name | Version | Support | Devlopment Status |
+|:-:|:-:|:-:|:-:|
+
+### Private
+
+| Name | Version | Support | Devlopment Status |
+|:-:|:-:|:-:|:-:|
+
+## Standalone
+
+### Public
+
+| Name | Version | Support | Devlopment Status |
+|:-:|:-:|:-:|:-:|
+
+### Private
+
+| Name | Version | Support | Devlopment Status |
+|:-:|:-:|:-:|:-:|
+
 ## Contributions  
 Feel free to create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
