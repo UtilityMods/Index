@@ -2,7 +2,7 @@
 *(we know of)
 
 Sorted: *A-Z*     
-Last updated 06/05/2021
+Last updated 10/05/2021
 
 ## Fabric
 
@@ -43,8 +43,9 @@ Last updated 06/05/2021
 
 ### Public
 
-| Name | Version | Support | Devlopment Status |
+| Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|
+| Gamesense | 1.12.2 | [Discord](https://discord.gg/xfgPw63) | [Github](https://github.com/IUDevman/gamesense-client) | Active |
 
 ### Private
 
@@ -55,7 +56,7 @@ Last updated 06/05/2021
 
 ### Public
 
-| Name | Version | Support | Devlopment Status |
+| Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|
 
 ### Private
