@@ -44,7 +44,7 @@ Last updated 10/05/2021
 ### Public
 
 | Name | Version | Support | Source | Devlopment Status |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 | Gamesense | 1.12.2 | [Discord](https://discord.gg/xfgPw63) | [Github](https://github.com/IUDevman/gamesense-client) | Active |
 
 ### Private
@@ -57,7 +57,7 @@ Last updated 10/05/2021
 ### Public
 
 | Name | Version | Support | Source | Devlopment Status |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 
 ### Private
 
