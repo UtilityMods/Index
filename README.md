@@ -2,7 +2,7 @@
 *(we know of)
 
 Sorted: *A-Z*     
-Last updated 10/05/2021
+Last updated 13/05/2021
 
 ## Fabric
 
@@ -22,11 +22,13 @@ Last updated 10/05/2021
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | [Jex](https://jexclient.com) | **1.16/1.17** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
 | [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
+| [KelperClient](https://github.com/Gav06/kepler-client) | **1.16.5** | [Github](https://github.com/Gav06/kepler-client) | WIP |
 | [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
 | Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
 | Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/YPAUujrrb9) | [GitHub](https://github.com/RemainingToast/toastclient) | Archived |
+| Urmonia | **1.16.5** | [Github](https://github.com/codex1729/urmomia) | [Discord](https://discord.gg/Eur9N2c8SV) | Active |
 | [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
 ### Private
