@@ -2,7 +2,7 @@
 *(we know of)
 
 Sorted: *A-Z*     
-Last updated 10/05/2021
+Last updated 17/05/2021
 
 ## Fabric
 
@@ -12,7 +12,7 @@ Last updated 10/05/2021
 |:-:|:-:|:-:|:-:|:-:|
 | [Aristois](https://aristois.net/) | **1.16.5** | [Forum](https://discuss.aristois.net/) | Closed | Active |
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
-| [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://discord.com/invite/b5Wc4nQ) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
+| [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
 | Bleach epearl edition | **1.16** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Active |
 | BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
 | Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
