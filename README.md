@@ -59,6 +59,7 @@ Last updated 17/05/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Jnactive |
 
 ### Private
 
