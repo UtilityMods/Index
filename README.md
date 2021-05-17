@@ -16,7 +16,7 @@ Last updated 17/05/2021
 | Bleach epearl edition | **1.16** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Active |
 | BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
 | Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
-| [Cornos](https://cornos.cf) | **1.16.5** | N/A | [GitHub](https://github.com/AriliusClient/Cornos) | Active |
+| [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/AriliusClient/Cornos) | Active |
 | FrostBurn | **1.16.5** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
 | GS-Fabric | **1.16.5** | [Discord](https://discord.gg/xfgPw63) | [GitHub](https://github.com/IUDevman/gamesense-fabric) | WIP |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
