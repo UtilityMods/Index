@@ -2,7 +2,7 @@
 *(we know of)
 
 ## Contributions
-If you wish to contribute make sure to read [CONTRIBUTING.md](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md)
+If you wish to contribute consult [CONTRIBUTING.md](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md)
 
 ## Index
 
@@ -11,62 +11,53 @@ Last updated 20/05/2021
 
 ### Fabric
 
-#### Public
-
 | Name | Version | Support | Source | Development Status |
 |:-:|:-:|:-:|:-:|:-:|
 | [Aristois](https://aristois.net/) | **1.16.5** | [Forum](https://discuss.aristois.net/) | Closed | Active |
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
 | [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
 | Bleach epearl edition | **1.16** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Active |
-| BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
-| Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
 | [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/AriliusClient/Cornos) | Active |
 | FrostBurn | **1.16.5** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
-| GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | [Jex](https://jexclient.com) | **1.16/1.17** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
 | [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
 | [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
-| Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
-| Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | Active |
-| Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
+| [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
 | [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
-#### Private
-
-| Name | Version | Support | Development Status |
-|:-:|:-:|:-:|:-:|
-| Basilisk | **1.16.5** | N/A | Inactive |
-| [beach house](https://beach-house-development.github.io/website/) |  **1.16.5**  | [GitHub](https://github.com/beach-house-development) | WIP |
-| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Discontinued |
-| Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Inactive |
-| [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
-| Tensor | **1.16.5** | N/A | Active |
-
-### Forge
-
-#### Public
-
-| Name | Version | Support | Source | Devlopment Status |
+#### Archived/WIP
+| Name | Version | Support | Source | Development Status |
 |:-:|:-:|:-:|:-:|:-:|
-
-#### Private
-
-| Name | Version | Support | Devlopment Status |
-|:-:|:-:|:-:|:-:|
+| [beach house](https://beach-house-development.github.io/website/) |  **1.16.5**  | N/A | Closed | WIP |
+| BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
+| Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
+| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Closed | Archived |
+| GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
+| Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
+| Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
+| Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | WIP |
+| Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
 
 ### Standalone
-
-#### Public
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
 | [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
-#### Private
+#### Archived/WIP
 
-| Name | Version | Support | Devlopment Status |
-|:-:|:-:|:-:|:-:|
+| Name | Version | Support | Source | Devlopment Status |
+|:-:|:-:|:-:|:-:|:-:|
+
+### Forge
+
+| Name | Version | Support | Source | Devlopment Status |
+|:-:|:-:|:-:|:-:|:-:|
+
+#### Archived/WIP
+
+| Name | Version | Support | Source | Devlopment Status |
+|:-:|:-:|:-:|:-:|:-:|
