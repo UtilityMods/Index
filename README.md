@@ -1,12 +1,17 @@
 # Index of all Minecraft Utility Mods:
 *(we know of)
 
+## Contributions
+If you wish to contribute make sure to read [CONTRIBUTING.md](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md)
+
+## Index
+
 Sorted: *A-Z*     
 Last updated 20/05/2021
 
-## Fabric
+### Fabric
 
-### Public
+#### Public
 
 | Name | Version | Support | Source | Development Status |
 |:-:|:-:|:-:|:-:|:-:|
@@ -30,7 +35,7 @@ Last updated 20/05/2021
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/YPAUujrrb9) | [GitHub](https://github.com/RemainingToast/toastclient) | Archived |
 | [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
-### Private
+#### Private
 
 | Name | Version | Support | Development Status |
 |:-:|:-:|:-:|:-:|
@@ -41,31 +46,27 @@ Last updated 20/05/2021
 | [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Active |
 | Tensor | **1.16.5** | N/A | Active |
 
-## Forge
+### Forge
 
-### Public
+#### Public
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| Gamesense | 1.12.2 | [Discord](https://discord.gg/xfgPw63) | [Github](https://github.com/IUDevman/gamesense-client) | Archived |
 
-### Private
+#### Private
 
 | Name | Version | Support | Devlopment Status |
 |:-:|:-:|:-:|:-:|
 
-## Standalone
+### Standalone
 
-### Public
+#### Public
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
 | [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
-### Private
+#### Private
 
 | Name | Version | Support | Devlopment Status |
 |:-:|:-:|:-:|:-:|
-
-## Contributions  
-Feel free to create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
