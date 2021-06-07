@@ -22,7 +22,6 @@ Last updated 20/05/2021
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | [Jex](https://jexclient.com) | **1.16/1.17** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
 | [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
-| [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
 | [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
@@ -36,6 +35,7 @@ Last updated 20/05/2021
 | Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
 | FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Closed | Archived |
 | GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
+| [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
 | Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
 | Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | WIP |
