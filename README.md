@@ -2,7 +2,7 @@
 *(we know of)
 
 Sorted: *A-Z*     
-Last updated 20/05/2021
+Last updated 18/05/2021
 
 ## Fabric
 
@@ -46,7 +46,7 @@ Last updated 20/05/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| Gamesense | 1.12.2 | [Discord](https://discord.gg/xfgPw63) | [Github](https://github.com/IUDevman/gamesense-client) | Archived |
+| Gamesense | 1.12.2 | [Discord](https://discord.gg/xfgPw63) | [Github](https://github.com/IUDevman/gamesense-client) | Active |
 
 ### Private
 
@@ -59,12 +59,12 @@ Last updated 20/05/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
+| [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Jnactive |
 
 ### Private
 
 | Name | Version | Support | Devlopment Status |
 |:-:|:-:|:-:|:-:|
 
-## Contributions  
-Feel free to create a pull request to add any client that isn't here already just be sure to follow same formatting rules.
+## Contributions
+Feel free to create a pull request to add any client that isn't here
