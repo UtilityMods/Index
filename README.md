@@ -45,7 +45,7 @@ Last updated 20/05/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
+| [Sigma](https://sigmaclient.info) | **1.16.4** | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
 #### Archived/WIP
 
@@ -56,6 +56,7 @@ Last updated 20/05/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| https://github.com/fr1kin/ForgeHax | **1.16.5** | [Wiki](https://github.com/fr1kin/ForgeHax/wiki) | [GitHub](https://github.com/fr1kin/ForgeHax) | Active
 
 #### Archived/WIP
 
