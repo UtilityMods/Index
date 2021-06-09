@@ -7,7 +7,7 @@ If you wish to contribute consult [CONTRIBUTING.md](https://github.com/UtilityMo
 ## Index
 
 Sorted: *A-Z*     
-Last updated 20/05/2021
+Last updated 08/06/2021
 
 ### Fabric
 
