@@ -7,7 +7,7 @@ If you wish to contribute consult [CONTRIBUTING.md](https://github.com/UtilityMo
 ## Index
 
 Sorted: *A-Z*     
-Last updated 20/05/2021
+Last updated 08/06/2021
 
 ### Fabric
 
@@ -23,7 +23,7 @@ Last updated 20/05/2021
 | [Jex](https://jexclient.com) | **1.16/1.17** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
 | [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
 | [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
-| [Quantum](https://quantumclient.org/) |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
+| [Quantum](https://quantumclient.org/) |  **1.16/1.17**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
 | [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
@@ -37,6 +37,7 @@ Last updated 20/05/2021
 | GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
 | [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
 | Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
+| MineClient |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | [Github](https://github.com/ChiquitaV2/MineClient) | Archived |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
 | Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | WIP |
 | Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
@@ -45,7 +46,8 @@ Last updated 20/05/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Sigma](https://sigmaclient.info) | **1.16.4** | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
+| [Impact](https://impactclient.net) | 1.11.2-1.15.2 | N/A | Closed | Active |
+| [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
 #### Archived/WIP
 
@@ -57,8 +59,12 @@ Last updated 20/05/2021
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
 | ForgeHax | **1.16.5** | [Wiki](https://github.com/fr1kin/ForgeHax/wiki) | [GitHub](https://github.com/fr1kin/ForgeHax) | Active
+| [seppuku](https://seppuku.pw) | 1.12.2 | [Discord](https://discord.gg/UzWBZPe) | [GitHub](https://github.com/seppukudevelopment/seppuku) | Active |
 
 #### Archived/WIP
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| [Kami Blue](https://kamiblue.org) | 1.12.2 | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
+| Salhackskid | 1.12.2 | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
+
