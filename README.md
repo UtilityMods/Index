@@ -45,7 +45,7 @@ Last updated 08/06/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Impact](https://impactclient.net) | 1.11.2-1.15.2 | N/A) | Closed | active |
+| [Impact](https://impactclient.net) | 1.11.2-1.15.2 | N/A | Closed | active |
 | [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
 #### Archived/WIP
@@ -62,3 +62,5 @@ Last updated 08/06/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| [Kami Blue](https://kamiblue.org) | 1.12.2 | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
+
