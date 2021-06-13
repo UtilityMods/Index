@@ -58,6 +58,7 @@ Last updated 08/06/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| Cosmos | 1.12.2 | [Discord](https://discord.gg/DtrvGHDftk) | Closed | Active |
 | ForgeHax | **1.16.5** | [Wiki](https://github.com/fr1kin/ForgeHax/wiki) | [GitHub](https://github.com/fr1kin/ForgeHax) | Active
 | [seppuku](https://seppuku.pw) | 1.12.2 | [Discord](https://discord.gg/UzWBZPe) | [GitHub](https://github.com/seppukudevelopment/seppuku) | Active |
 
@@ -66,5 +67,6 @@ Last updated 08/06/2021
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
 | [Kami Blue](https://kamiblue.org) | 1.12.2 | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
+| Momentum | 1.12.2 | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived |
 | Salhackskid | 1.12.2 | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
 
