@@ -41,6 +41,7 @@ Last updated 08/06/2021
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
 | Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | WIP |
 | Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
+| TeaHax | **1.16.5** | [Discord](https://discord.gg/mEyJC43eFg) | Closed | WIP |
 
 ### Standalone
 
