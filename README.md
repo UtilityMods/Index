@@ -47,8 +47,8 @@ Last updated 08/06/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Impact](https://impactclient.net) | 1.11.2-1.15.2 | N/A | Closed | Active |
-| [Sigma](https://sigmaclient.info) | 1.16.4 | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
+| [Impact](https://impactclient.net) | **1.11.2-1.15.2** | N/A | Closed | Active |
+| [Sigma](https://sigmaclient.info) | **1.16.4** | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
 #### Archived/WIP
 
@@ -59,14 +59,14 @@ Last updated 08/06/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| Cosmos | 1.12.2 | [Discord](https://discord.gg/DtrvGHDftk) | Closed | Active |
-| [seppuku](https://seppuku.pw) | 1.12.2 | [Discord](https://discord.gg/UzWBZPe) | [GitHub](https://github.com/seppukudevelopment/seppuku) | Active |
+| Cosmos | **1.12.2** | [Discord](https://discord.gg/DtrvGHDftk) | Closed | Active |
+| [seppuku](https://seppuku.pw) | **1.12.2** | [Discord](https://discord.gg/UzWBZPe) | [GitHub](https://github.com/seppukudevelopment/seppuku) | Active |
 
 #### Archived/WIP
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Kami Blue](https://kamiblue.org) | 1.12.2 | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
-| Momentum | 1.12.2 | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived |
-| Salhackskid | 1.12.2 | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
+| [Kami Blue](https://kamiblue.org) | **1.12.2** | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
+| Momentum | **1.12.2** | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived |
+| Salhackskid | **1.12.2** | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
 
