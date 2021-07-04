@@ -15,7 +15,7 @@ Last updated 08/06/2021
 |:-:|:-:|:-:|:-:|:-:|
 | [Aristois](https://aristois.net/) | **1.16.5** | [Forum](https://discuss.aristois.net/) | Closed | Active |
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
-| Atomic | **1.17+** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
+| Atomic | **1.17** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
 | [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
 | Bleach epearl edition | **1.16** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Active |
 | [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Active |
