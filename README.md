@@ -66,6 +66,7 @@ Last updated 08/06/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| Gamesense | **1.12.2** | N/A | [GitHub](https://github.com/IUDevman/gamesense-client) | Archived |
 | [Kami Blue](https://kamiblue.org) | **1.12.2** | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
 | Momentum | **1.12.2** | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived |
 | Salhackskid | **1.12.2** | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
