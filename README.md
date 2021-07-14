@@ -17,7 +17,6 @@ Last updated 12/07/2021
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
 | Atomic | **1.17** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
 | [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
-| [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Active |
 | FrostBurn | **1.16/1.17** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | [Jex](https://jexclient.com) | **1.16/1.17** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
@@ -34,6 +33,7 @@ Last updated 12/07/2021
 | Bleach epearl edition | **1.16.4** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Archived |
 | BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
 | Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
+| [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Archived |
 | FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Closed | Archived |
 | GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
 | [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
