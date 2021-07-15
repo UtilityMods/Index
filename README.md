@@ -32,7 +32,6 @@ Last updated 12/07/2021
 | [beach house](https://beach-house-development.github.io/website/) |  **1.16.5**  | N/A | Closed | WIP |
 | Bleach epearl edition | **1.16.4** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Archived |
 | BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
-| Cherry | **1.16.5** | N/A | [GitHub](https://github.com/Gav06/Cherry-Client) | WIP |
 | [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Archived |
 | FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Closed | Archived |
 | GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
@@ -41,7 +40,7 @@ Last updated 12/07/2021
 | MineClient |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | [Github](https://github.com/ChiquitaV2/MineClient) | Archived |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
 | Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | WIP |
-| Rhodium | **1.16.4** | N/A | [GitHub](https://github.com/IUDevman/Rhodium) | WIP |
+
 
 ### Standalone
 
