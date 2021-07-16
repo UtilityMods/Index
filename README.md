@@ -24,7 +24,7 @@ Last updated 12/07/2021
 | [Meteor Client](https://meteorclient.com/) | **1.16/1.17** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
 | [Quantum](https://quantumclient.org/) |  **1.16/1.17**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
-| [Wurst](https://www.wurstclient.net/) | **1.16/1.17** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
+| [Wurst](https://www.wurstclient.net/) | **1.17.1** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
 #### Archived/WIP
 | Name | Version | Support | Source | Development Status |
