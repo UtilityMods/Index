@@ -15,7 +15,7 @@ Last updated 12/07/2021
 |:-:|:-:|:-:|:-:|:-:|
 | [Aristois](https://aristois.net/) | **1.17.1** | [Forum](https://discuss.aristois.net/) | Closed | Active |
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
-| Atomic | **1.17** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
+| Atomic | **1.17.1** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
 | [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
 | FrostBurn | **1.16/1.17** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
@@ -35,7 +35,7 @@ Last updated 12/07/2021
 | [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Archived |
 | FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Closed | Archived |
 | GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
-| [LiquidBounce](https://liquidbounce.net) | **1.16.5** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
+| [LiquidBounce](https://liquidbounce.net) | **1.17.1** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
 | Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
 | MineClient |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | [Github](https://github.com/ChiquitaV2/MineClient) | Archived |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
