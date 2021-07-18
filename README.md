@@ -7,7 +7,7 @@ If you wish to contribute consult [CONTRIBUTING.md](https://github.com/UtilityMo
 ## Index
 
 Sorted: *A-Z*     
-Last updated 17/07/2021
+Last updated 18/07/2021
 
 ### Fabric
 
@@ -21,7 +21,7 @@ Last updated 17/07/2021
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | [Jex](https://jexclient.com) | **1.17.1** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
 | [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
-| [Meteor Client](https://meteorclient.com/) | **1.17.1** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
+| [Meteor Client](https://meteorclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
 | [Quantum](https://quantumclient.org/) |  **1.17.1**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
 | [Wurst](https://www.wurstclient.net/) | **1.17.1** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
