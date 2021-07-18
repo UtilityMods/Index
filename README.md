@@ -65,8 +65,12 @@ Last updated 18/07/2021
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
+| FiraClient | **1.12.2** | N/A | [GitHub](https://github.com/cout970/FiraClient) | Archived |
 | Gamesense | **1.12.2** | N/A | [GitHub](https://github.com/IUDevman/gamesense-client) | Archived |
 | [Kami Blue](https://kamiblue.org) | **1.12.2** | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
-| Momentum | **1.12.2** | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived |
+| Luchadora | **1.12.2** | N/A | [GitHub](https://github.com/x4e/Luchadora) | Archived |
+| Momentum | **1.12.2** | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived 
+| Past | **1.12.2** | N/A | [GitHub](https://github.com/olliem5/past) | Archived |
+| [Postman](http://techale.github.io/postman-website/) | **1.12.2** | N/A | [GitHub](https://github.com/moomooooo/postman) | Archived |
 | Salhackskid | **1.12.2** | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
 
