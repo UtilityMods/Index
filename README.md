@@ -17,12 +17,12 @@ Last updated 12/07/2021
 | [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
 | Atomic | **1.17.1** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
 | [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
-| FrostBurn | **1.16/1.17** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
+| FrostBurn | **1.17** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
 | [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
 | [Jex](https://jexclient.com) | **1.17.1** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
 | [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
-| [Meteor Client](https://meteorclient.com/) | **1.16/1.17** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
-| [Quantum](https://quantumclient.org/) |  **1.16/1.17**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
+| [Meteor Client](https://meteorclient.com/) | **1.17.1** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
+| [Quantum](https://quantumclient.org/) |  **1.17.1**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
 | Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
 | [Wurst](https://www.wurstclient.net/) | **1.17.1** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
 
@@ -39,14 +39,14 @@ Last updated 12/07/2021
 | Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
 | MineClient |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | [Github](https://github.com/ChiquitaV2/MineClient) | Archived |
 | Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
-| Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | WIP |
+| Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | Archived |
 
 
 ### Standalone
 
 | Name | Version | Support | Source | Devlopment Status |
 |:-:|:-:|:-:|:-:|:-:|
-| [Impact](https://impactclient.net) | **1.11.2-1.15.2** | N/A | Closed | Active |
+| [Impact](https://impactclient.net) | **1.11.2-1.16.4** | N/A | Closed | Active |
 | [Sigma](https://sigmaclient.info) | **1.16.4** | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
 
 #### Archived/WIP
