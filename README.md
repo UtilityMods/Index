@@ -33,7 +33,7 @@ Last updated 18/07/2021
 | Bleach epearl edition | **1.16.4** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Archived |
 | BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
 | [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Archived |
-| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | Closed | Archived |
+| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | [GitHub](https://github.com/FaxHax/fabric-client) | Archived |
 | GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
 | [LiquidBounce](https://liquidbounce.net) | **1.17.1** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
 | Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
