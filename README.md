@@ -1,13 +1,13 @@
-# Index of all Minecraft Utility Mods:
-*(we know of)
+<div align="center">
 
-## Contributions
-If you wish to contribute consult [CONTRIBUTING.md](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md)
+Minecraft Utility Mod Index
+===
+***A public index of all (known) Minecraft utility mods***
 
-## Index
+**`Last updated: 2021-07-22`**
 
-Sorted: *A-Z*     
-Last updated 22/07/2021
+</div>
+
 
 ### Fabric
 
