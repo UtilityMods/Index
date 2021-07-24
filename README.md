@@ -12,6 +12,10 @@ Minecraft Utility Mod Index
 
 Please consult the [Contribution Guidelines](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md) before opening an Issue or a Pull Request.
 
+## Mod index
+
+The index includes clients for Fabric, Forge, and Standalone, with version support from 1.12 to 1.17. It is alphabetically sorted by mod name and categorized by the modloader.
+
 ### Fabric
 
 | Name | Version | Support | Source | Development Status |
