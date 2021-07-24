@@ -34,55 +34,185 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 ### Fabric
 
-| Name | Version | Support | Source | Development Status |
-|:-:|:-:|:-:|:-:|:-:|
-| [Aristois](https://aristois.net/) | **1.17.1** | [Forum](https://discuss.aristois.net/) | Closed | Active |
-| [Ares](https://aresclient.org/) | **1.16.5** | [Discord](https://discord.com/invite/GtBgknj) | [GitHub](https://github.com/AresClient/ares) | Active |
-| Atomic | **1.17.1** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Atomic) | Active |
-| [Bleach](https://bleachhack.github.io) | **1.16/1.17** | [Discord](https://bleachhack.github.io/discord) | [GitHub](https://github.com/BleachDrinker420/bleachhack-1.14) | Active |
-| FrostBurn | **1.17** | [Discord](https://discord.gg/XkpYgpfHtc) | [GitHub](https://github.com/evaan/FrostBurn) | Active |
-| [Inertia](https://inertiaclient.com/) | **1.16.5** | [Discord](https://discord.com/invite/ZyMKgSm) | Closed | Active |
-| [Jex](https://jexclient.com) | **1.17.1** | [Discord](https://discord.gg/6sCnhXuAG6) | [Github](https://github.com/DustinRepo/JexClient-main) | Active
-| [KAMI](https://kamiclient.com) | **1.16.5** | [Discord](https://discord.gg/9hvwgeg) | [GitHub](https://github.com/zeroeightysix/KAMI) | Active |
-| [Meteor Client](https://meteorclient.com/) | **1.17.1** | [Discord](https://discord.com/invite/bBGQZvd) | [GitHub](https://github.com/MeteorDevelopment/meteor-client) | Active |
-| [Quantum](https://quantumclient.org/) |  **1.17.1**  | [Discord](https://discord.gg/DC358waTEZ) | Closed | Active |
-| Toast Client | **1.16.5** | [Discord](https://discord.gg/PASHZanfyc) | [GitHub](https://github.com/RemainingToast/ToastClient) | Active |
-| [Wurst](https://www.wurstclient.net/) | **1.17.1** | [Reddit](https://www.reddit.com/r/WurstClient/) | [GitHub](https://github.com/Wurst-Imperium/Wurst7) | Active |
+| Name | Version | Links |
+| :--: | :-----: | :---: |
+| [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
+| [Aristois]      | **1.8.9 to 1.17.1**<br><small>*older versions may use Forge*</small> | [Forum][Aristois forum] |
+| Atomic          | **1.17**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
+| [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
+| FrostBurn       | **1.17**             | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] |
+| [Inertia]       | **1.14.4 to 1.16.5** | [Discord][Inertia Discord] |
+| [Jex]           | **1.17**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
+| [KAMI]*         | **1.16.5**           | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
+| [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
+| [Quantum]       |  **1.17**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]* |
+| Toast Client    | **1.16.5**           | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] |
+| [Wurst]         | **1.7.2 to 1.17.1+**<br><small>*older versions may use Forge*</small> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
 
-#### Archived/WIP
-| Name | Version | Support | Source | Development Status |
-|:-:|:-:|:-:|:-:|:-:|
-| [beach house](https://beach-house-development.github.io/website/) |  **1.16.5**  | N/A | Closed | WIP |
-| Bleach epearl edition | **1.16.4** | [Discord](https://discord.com/invite/WkdpPZ6) | [GitHub](https://github.com/22s/bleachhack-1.16-epearl-edition) | Archived |
-| BubbyClient | **1.16.1** | N/A | [GitHub](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16) | Archived |
-| [Cornos](https://cornos.cf) | **1.16.5** | [Discord](https://discord.gg/rvC7F798xQ) | [GitHub](https://github.com/cornos/Cornos) | Archived |
-| FaxHax | **1.16.5** | [Discord](https://discord.gg/D6XqgbVGFT) | [GitHub](https://github.com/FaxHax/fabric-client) | Archived |
-| GS-Fabric | **1.16.5** | N/A | [GitHub](https://github.com/IUDevman/gamesense-fabric) | Archived |
-| [LiquidBounce](https://liquidbounce.net) | **1.17.1** | [Guilded](https://www.guilded.gg/CCBlueX) | [GitHub](https://github.com/CCBlueX/LiquidBounce) | WIP |
-| Lumen | **1.16.5** | N/A | [GitHub](https://github.com/olliem5/lumen) | Archived |
-| MineClient |  **1.16.5**  | [Discord](https://discord.gg/DC358waTEZ) | [Github](https://github.com/ChiquitaV2/MineClient) | Archived |
-| Numa |  **1.16.5**  | [Forum](https://numaclient.net/) | Closed | WIP |
-| Phobos-1.16 | **1.16.5** | N/A | [Github](https://github.com/MOMIN5/Phobos-1.16) | Archived |
+\* KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
+\* Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.
+
+[Aristois]: https://aristois.net/
+[Aristois forum]: https://discuss.aristois.net/
+
+[Ares]: https://aresclient.org/
+[Ares Discord]: https://discord.com/invite/3cdCacJ
+[Ares GitHub]: https://github.com/AresClient
+
+[Atomic Discord]: https://discord.gg/rvC7F798xQ 
+[Atmoic GitHub]: https://github.com/cornos/Atomic
+
+[Bleach]: https://bleachhack.org/
+[Bleach Discord]: https://bleachhack.org/discord
+[Bleach GitHub]: https://github.com/BleachDrinker420/BleachHack
+
+[FrostBurn Discord]: https://discord.gg/XkpYgpfHtc
+[FrostBurn GitHub]: https://github.com/evaan/FrostBurn
+
+[Inertia]: https://inertiaclient.com/
+[Inertia Discord]: https://discord.gg/ZyMKgSm
+
+[Jex]: https://jexclient.com
+[Jex Discord]: https://discord.gg/msV9ek4Qwt
+[Jex GitHub]: https://github.com/DustinRepo/JexClient-main
+
+[KAMI]: https://kamiclient.com
+[KAMI Discord]: https://discord.gg/9hvwgeg
+[KAMI GitHub]: https://github.com/zeroeightysix/KAMI
+
+[Meteor Client]: https://meteorclient.com/
+[Meteor Discord]: https://meteorclient.com/discord
+[Meteor GitHub]: https://meteorclient.com/github
+
+[Quantum]: https://quantumclient.org/
+[Quantum Discord]: https://quantumclient.org/discord
+[Quantum GitHub]: https://quantumclient.org/github
+
+[Toast Discord]: https://discord.gg/PASHZanfyc
+[Toast GitHub]: https://github.com/RemainingToast/ToastClient
+
+[Wurst]: https://www.wurstclient.net/
+[Wurst Reddit]: https://www.reddit.com/r/WurstClient/
+[Wurst GitHub]: https://github.com/Wurst-Imperium/Wurst7
+
+#### Archived & WIP (Fabric)
+<details>
+<summary><em>Expand list</em></summary>
+
+| Name | Version | Links | Status |
+| :--: | :-----: | :---: | :----: |
+| [beach house]  |  **1.16.5?**  | [GitHub][beach house GitHub]* | WIP |
+| Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
+| BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
+| [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
+| FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
+| GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
+| [LiquidBounce] | **1.17.1**   | [Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
+| Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
+| MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
+| Numa           |  **1.16.5**  | [Forum][Numa Forum]<br>*may be offline* | WIP |
+| Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
+
+\* beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.
+
+[beach house]: https://beach-house-development.github.io/website/
+[beach house GitHub]: https://github.com/beach-house-development
+[Bleach epearl Discord]: https://discord.com/invite/WkdpPZ6
+[Bleach epearl GitHub]: https://github.com/22s/bleachhack-1.16-epearl-edition
+[Bubby GitHub]: https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16
+[Cornos]: https://cornos.cf/
+[Cornos Discord]: https://discord.gg/rvC7F798xQ
+[Cornos GitHub]: https://github.com/cornos/Cornos
+[FaxHax Discord]: https://discord.gg/D6XqgbVGFT
+[FaxHax GitHub]: https://github.com/FaxHax/fabric-client
+[GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
+[LiquidBounce]: https://liquidbounce.net
+[Liquid Guilded]: https://www.guilded.gg/CCBlueX
+[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
+[Lumen GitHub]: https://github.com/olliem5/lumen
+[MineClient Discord]: https://discord.gg/DC358waTEZ
+[MineClient GitHub]: https://github.com/ChiquitaV2/MineClient
+[Numa Forum]: https://numaclient.net/
+[Phobos-1.16 GitHub]: https://github.com/MOMIN5/Phobos-1.16
+
+</details>
+
+
+### Forge
+
+| Name | Version | Links |
+| :--: | :-----: | :---: |
+| [Impact]* | **1.11.2 to 1.16.5** | [Issues][Impact Issues]* |
+| [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
+
+\* Impact is also available as a standalone mod.
+\* Impact previously had a Discord server but it was terminated in a Discord ban-wave.
+
+#### Fabric mods with Forge variants
+
+- Ares
+- Aristois
+- Inertia
+- Wurst
+
+These Fabric mods [listed above](#fabric) also offer Forge variants. These are typically compatible with a specific MC version or older versions, such as `1.7.2` or `1.8.9`. Check the mods website for more information.
+
+[Impact]: https://impactclient.net/
+[Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
+
+[Seppuku]: https://seppuku.pw/
+[Seppuku Discord]: https://discord.gg/nf8Dfj4
+[Seppuku GitHub]: https://github.com/seppukudevelopment/seppuku
+
+
+#### Archived & WIP (Forge)
+<details>
+<summary><em>Expand list</em></summary>
+
+| Name | Version | Links | Status |
+| :--: | :-----: | :---: | :----: |
+| FiraClient | **1.12.2** | [GitHub][Fira GitHub] | Archived |
+| Gamesense | **1.12.2** | [GitHub][OG GS GitHub] | Archived |
+| [Kami Blue] | **1.12.2** | [GitHub][KB GitHub] | Archived |
+| Luchadora | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
+| Momentum | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
+| Past | **1.12.2** | [GitHub][Past GitHub] | Archived |
+| [Postman] | **1.12.2** | [GitHub][Postman GitHub] | Archived |
+| Salhackskid | **1.12.2** | [GitHub][Salhackskid GitHub] | Archived |
+
+[Fira GitHub]: https://github.com/cout970/FiraClient
+[OG GS GitHub]: https://github.com/IUDevman/gamesense-client
+[Kami Blue]: https://kamiblue.org/
+[KB GitHub]: https://github.com/kami-blue/client
+[Luchadora GitHub]: https://github.com/x4e/Luchadora
+[Momentum GitHub]: https://github.com/linustouchtips/momentum
+[Past GitHub]: https://github.com/olliem5/past
+[Postman]: http://techale.github.io/postman-website/
+[Postman GitHub]: https://github.com/moomooooo/postman
+[Salhackskid GitHub]: https://github.com/pleasegivesource/SalHackSkid
+
+</details>
 
 
 ### Standalone
 
-| Name | Version | Support | Source | Devlopment Status |
-|:-:|:-:|:-:|:-:|:-:|
-| [Impact](https://impactclient.net) | **1.11.2-1.16.4** | N/A | Closed | Active |
-| [Sigma](https://sigmaclient.info) | **1.16.4** | [Reddit](https://www.reddit.com/r/SigmaClient) | Closed | Inactive |
+| Name | Version | Links | Notes |
+| :--: | :-----: | :---: | ----- |
+| [Sigma] | **1.8 to 1.16** | [Reddit][Sigma Reddit] |
 
-#### Archived/WIP
+[Sigma]: https://sigmaclient.info/
+[Sigma Reddit]: https://www.reddit.com/r/SigmaClient
 
-| Name | Version | Support | Source | Devlopment Status |
-|:-:|:-:|:-:|:-:|:-:|
 
-### Forge
+#### Archived & WIP (standalone)
+<details>
+<summary><em>Expand list</em></summary>
 
-| Name | Version | Support | Source | Devlopment Status |
-|:-:|:-:|:-:|:-:|:-:|
-| Cosmos | **1.12.2** | [Discord](https://discord.gg/DtrvGHDftk) | Closed | Active |
-| [seppuku](https://seppuku.pw) | **1.12.2** | [Discord](https://discord.gg/UzWBZPe) | [GitHub](https://github.com/seppukudevelopment/seppuku) | Active |
+| Name | Version | Links | Status |
+| :--: | :-----: | :---: | :----: |
+
+</details>
+
 
 ## Contributing
 
