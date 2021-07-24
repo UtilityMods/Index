@@ -8,6 +8,9 @@ Minecraft Utility Mod Index
 
 </div>
 
+## Contributing
+
+Please consult the [Contribution Guidelines](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md) before opening an Issue or a Pull Request.
 
 ### Fabric
 
