@@ -8,10 +8,6 @@ Minecraft Utility Mod Index
 
 </div>
 
-## Contributing
-
-Please consult the [Contribution Guidelines](https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md) before opening an Issue or a Pull Request.
-
 ## Mod index
 
 The index includes clients for Fabric, Forge, and Standalone, with version support from 1.12 to 1.17. It is alphabetically sorted by mod name and categorized by the modloader.
@@ -68,16 +64,8 @@ The index includes clients for Fabric, Forge, and Standalone, with version suppo
 | Cosmos | **1.12.2** | [Discord](https://discord.gg/DtrvGHDftk) | Closed | Active |
 | [seppuku](https://seppuku.pw) | **1.12.2** | [Discord](https://discord.gg/UzWBZPe) | [GitHub](https://github.com/seppukudevelopment/seppuku) | Active |
 
-#### Archived/WIP
+## Contributing
 
-| Name | Version | Support | Source | Devlopment Status |
-|:-:|:-:|:-:|:-:|:-:|
-| FiraClient | **1.12.2** | N/A | [GitHub](https://github.com/cout970/FiraClient) | Archived |
-| Gamesense | **1.12.2** | N/A | [GitHub](https://github.com/IUDevman/gamesense-client) | Archived |
-| [Kami Blue](https://kamiblue.org) | **1.12.2** | N/A | [GitHub](https://github.com/kami-blue/client) | Archived |
-| Luchadora | **1.12.2** | N/A | [GitHub](https://github.com/x4e/Luchadora) | Archived |
-| Momentum | **1.12.2** | N/A | [GitHub](https://github.com/linustouchtips/momentum) | Archived 
-| Past | **1.12.2** | N/A | [GitHub](https://github.com/olliem5/past) | Archived |
-| [Postman](http://techale.github.io/postman-website/) | **1.12.2** | N/A | [GitHub](https://github.com/moomooooo/postman) | Archived |
-| Salhackskid | **1.12.2** | N/A | [GitHub](https://github.com/pleasegivesource/SalHackSkid) | Archived |
+Please consult the [Contribution Guidelines] before opening an Issue or a Pull Request.
 
+[Contribution Guidelines]: https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md
