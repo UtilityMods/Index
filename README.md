@@ -10,7 +10,7 @@ Minecraft Utility Mod Index
 
 ## Mod index
 
-The index includes clients for Fabric, Forge, and Standalone, with version support from 1.12 to 1.17. It is alphabetically sorted by mod name and categorized by the modloader.
+The index includes clients for [Fabric](#fabric) and [Forge](#forge) (as well as [Standalone](#standalone) mods). It is alphabetically sorted by mod name and categorized by the modloader.
 
 <details>
 <summary><strong>Modloaders explained</strong> (click to expand)</summary>
