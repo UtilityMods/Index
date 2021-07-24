@@ -31,7 +31,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 </details>
 
-
+---
 ### Fabric
 
 | Name | Version | Links |
@@ -137,7 +137,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 </details>
 
-
+---
 ### Forge
 
 | Name | Version | Links |
@@ -193,7 +193,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 </details>
 
-
+---
 ### Standalone
 
 | Name | Version | Links | Notes |
@@ -213,7 +213,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 </details>
 
-
+---
 ## Contributing
 
 Please consult the [Contribution Guidelines] before opening an Issue or a Pull Request.
