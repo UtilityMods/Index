@@ -12,6 +12,26 @@ Minecraft Utility Mod Index
 
 The index includes clients for Fabric, Forge, and Standalone, with version support from 1.12 to 1.17. It is alphabetically sorted by mod name and categorized by the modloader.
 
+<details>
+<summary><strong>Modloaders explained</strong> (click to expand)</summary>
+
+A modloader is exactly what it sounds like: it loads mods, hence "mod loader". These loaders make it easy for developers to write mods and even easier for players to install mods.
+
+| Modloader | Description | Website |
+| :-------: | ----------- | :-----: |
+| Fabric | Fabric is a lightweight, experimental modding toolchain for Minecraft. Much newer than Forge. | [Fabric] |
+| Forge | Arguably the most popular modding API for Minecraft. Most older (around MC 1.12) mods are written using Forge. Forge does have support for newer MC versions, but developers tend to switch to Fabric for newer MC. | [Forge] |
+| Standalone | This is a more primitive method of modding where devs don't use a dedicated modloader, and rather modify the game directly. A popular example of this style is [Optifine], which can be loaded into Minecraft without setting up any other modloaders. | *N/A* |
+
+**Please note:** Forge and Fabric are **not** designed to work alongside eachother. You are free to try it, but don't be surprised if it doesn't work and no one helps you.
+
+[Fabric]: https://www.fabricmc.net/
+[Forge]: https://files.minecraftforge.net/
+[Optifine]: https://www.optifine.net/
+
+</details>
+
+
 ### Fabric
 
 | Name | Version | Support | Source | Development Status |
