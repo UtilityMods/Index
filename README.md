@@ -37,21 +37,17 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.17.1**\*<sup>1</sup> | [Forum][Aristois forum] |
+| [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum] |
 | Atomic          | **1.17**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | FrostBurn       | **1.17**             | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] |
 | [Inertia]       | **1.14.4 to 1.16.5** | [Discord][Inertia Discord] |
 | [Jex]           | **1.17**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
-| [KAMI]\*<sup>2</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
+| [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
-| [Quantum]       |  **1.17**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]\*<sup>3</sup> |
+| [Quantum]       |  **1.17**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | Toast Client    | **1.16.5**           | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] |
-| [Wurst]         | **1.7.2 to 1.17.1+**\*<sup>1</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
-
-\*<sup>1</sup> Older Minecraft versions may be using Forge.  
-\*<sup>2</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
-\*<sup>3</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.  
+| [Wurst]         | **1.7.2 to 1.17.1+**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -102,7 +98,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-| [beach house]  |  **1.16.5?**  | [GitHub][beach house GitHub]\*<sup>1</sup> | WIP |
+| [beach house]  |  **1.16.5?** | [GitHub][beach house GitHub]<sup>[4]</sup> | WIP |
 | Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
 | BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
 | [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
@@ -113,8 +109,6 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<br>*may be offline* | WIP |
 | Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
-
-\*<sup>1</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.  
 
 [beach house]: https://beach-house-development.github.io/website/
 [beach house GitHub]: https://github.com/beach-house-development
@@ -143,11 +137,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
-| [Impact]\*<sup>1</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]\*<sup>2</sup> |
+| [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
-
-\*<sup>1</sup> Impact is also available as a standalone mod.  
-\*<sup>2</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 
 #### Fabric mods with Forge variants
 
@@ -220,3 +211,20 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 Please consult the [Contribution Guidelines] before opening an Issue or a Pull Request.
 
 [Contribution Guidelines]: https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md
+
+---
+## Footnotes
+
+<sup id="fn1">1</sup> Older Minecraft versions may be using Forge.  
+<sup id="fn2">2</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
+<sup id="fn3">3</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.  
+<sup id="fn4">4</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.  
+<sup id="fn5">5</sup> Impact is also available as a standalone mod.  
+<sup id="fn6">6</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
+
+[1]: #fn1
+[2]: #fn2
+[3]: #fn3
+[4]: #fn4
+[5]: #fn5
+[6]: #fn6
