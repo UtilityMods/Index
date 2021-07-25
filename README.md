@@ -37,7 +37,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.17.1**<br><small>*older versions may use Forge*</small> | [Forum][Aristois forum] |
+| [Aristois]      | **1.8.9 to 1.17.1**\*<sup>1</sup> | [Forum][Aristois forum] |
 | Atomic          | **1.17**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | FrostBurn       | **1.17**             | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] |
@@ -47,9 +47,9 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.17**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]\*<sup>3</sup> |
 | Toast Client    | **1.16.5**           | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] |
-| [Wurst]         | **1.7.2 to 1.17.1+**<br><small>*older versions may use Forge*</small> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
+| [Wurst]         | **1.7.2 to 1.17.1+**\*<sup>1</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
 
-\* KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
+\*<sup>1</sup> Older Minecraft versions may be using Forge.
 \*<sup>2</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
 \*<sup>3</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.
 
