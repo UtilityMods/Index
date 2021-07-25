@@ -19,14 +19,14 @@ Your submission **must not**:
 <summary>Footnotes</summary>
 <br>
 
-<b id="1">support server:</b> A support server can be any of:
+<sup id="1">**1**</sup> A "support server" can be any of:
 
 - Website
 - Subreddit or other forum
 - Discord/Guilded server
 - *others may be accepted; if in doubt, try it, and you'll be asked to change it if it's a problem*
 
-<b id="2">skid:</b> We define a "skid" as:
+<sup id="2">**2**</sup> We define a "skid" as:
 
 > taking others code and passing it off as your own and not crediting the original work
 

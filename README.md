@@ -215,12 +215,12 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 ---
 ## Footnotes
 
-<sup id="fn1">1</sup> Older Minecraft versions may be using Forge.  
-<sup id="fn2">2</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
-<sup id="fn3">3</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.  
-<sup id="fn4">4</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.  
-<sup id="fn5">5</sup> Impact is also available as a standalone mod.  
-<sup id="fn6">6</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
+<sup id="fn1">**1**</sup> Older Minecraft versions may be using Forge.  
+<sup id="fn2">**2**</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
+<sup id="fn3">**3**</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.  
+<sup id="fn4">**4**</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.  
+<sup id="fn5">**5**</sup> Impact is also available as a standalone mod.  
+<sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 
 [1]: #fn1
 [2]: #fn2
