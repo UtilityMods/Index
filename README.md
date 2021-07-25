@@ -49,9 +49,9 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Toast Client    | **1.16.5**           | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] |
 | [Wurst]         | **1.7.2 to 1.17.1+**\*<sup>1</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
 
-\*<sup>1</sup> Older Minecraft versions may be using Forge.
+\*<sup>1</sup> Older Minecraft versions may be using Forge.  
 \*<sup>2</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
-\*<sup>3</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.
+\*<sup>3</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.  
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -114,7 +114,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<br>*may be offline* | WIP |
 | Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
 
-\*<sup>1</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.
+\*<sup>1</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.  
 
 [beach house]: https://beach-house-development.github.io/website/
 [beach house GitHub]: https://github.com/beach-house-development
@@ -146,8 +146,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Impact]\*<sup>1</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]\*<sup>2</sup> |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 
-\*<sup>1</sup> Impact is also available as a standalone mod.
-\*<sup>2</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.
+\*<sup>1</sup> Impact is also available as a standalone mod.  
+\*<sup>2</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 
 #### Fabric mods with Forge variants
 
