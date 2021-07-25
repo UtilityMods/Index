@@ -212,7 +212,6 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 
 [Contribution Guidelines]: https://github.com/UtilityMods/Index/blob/main/CONTRIBUTING.md
 
----
 ## Footnotes
 
 <sup id="fn1">**1**</sup> Older Minecraft versions may be using Forge.  
