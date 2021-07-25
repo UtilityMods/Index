@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-**`Last updated: 2021-07-24`**
+**`Last updated: 2021-07-25`**
 
 Your submission **must**:
 

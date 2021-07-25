@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-07-24`**
+**`Last updated: 2021-07-25`**
 
 </div>
 
