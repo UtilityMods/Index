@@ -192,7 +192,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
-| [Sigma] | **1.8 to 1.16** | [Reddit][Sigma Reddit] |
+| [Sigma] | **1.8 to 1.16**<sup>[7]</sup> | [Reddit][Sigma Reddit] |
 
 [Sigma]: https://sigmaclient.info/
 [Sigma Reddit]: https://www.reddit.com/r/SigmaClient
@@ -222,6 +222,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn4">**4**</sup> May be offline.  
 <sup id="fn5">**5**</sup> Impact is also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
+<sup id="fn7">**7**</sup> Sigma client is technically 1.16.4 but uses viaversion to connect to servers on lower versions
 
 [1]: #fn1
 [2]: #fn2
@@ -229,3 +230,4 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 [4]: #fn4
 [5]: #fn5
 [6]: #fn6
+[7]: #fn7
