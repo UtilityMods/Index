@@ -98,7 +98,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
 | FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
 | GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum][Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
+| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
