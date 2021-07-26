@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-07-25`**
+**`Last updated: 2021-07-22`**
 
 </div>
 
@@ -37,18 +37,19 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum] |
+| [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
-| [Inertia]       | **1.14.4 to 1.16.5** | [Discord][Inertia Discord] |
+| [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.17.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
-| [Wurst]         | **1.7.2 to 1.17.1+**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
+| [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [GitHub][Wurst GitHub]<br>[Reddit][Wurst Reddit] |
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
+[Aristois guilded]: https://guilded.gg/Aristois
 
 [Ares]: https://aresclient.org/
 [Ares Discord]: https://discord.com/invite/3cdCacJ
@@ -63,6 +64,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 [Inertia]: https://inertiaclient.com/
 [Inertia Discord]: https://discord.gg/ZyMKgSm
+[Inertia Issues]: https://github.com/THEREALWWEFAN231/Inertia
 
 [Jex]: https://jexclient.com
 [Jex Discord]: https://discord.gg/msV9ek4Qwt
@@ -81,8 +83,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Quantum GitHub]: https://quantumclient.org/github
 
 [Wurst]: https://www.wurstclient.net/
-[Wurst Reddit]: https://www.reddit.com/r/WurstClient/
 [Wurst GitHub]: https://github.com/Wurst-Imperium/Wurst7
+[Wurst Reddit]: https://www.reddit.com/r/WurstClient/
 
 #### Archived & WIP (Fabric)
 <details>
@@ -97,7 +99,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
 | FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
 | GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| [LiquidBounce] | **1.17.1**   | [Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
+| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
@@ -119,6 +121,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [FrostBurn GitHub]: https://github.com/evaan/FrostBurn
 [GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
 [LiquidBounce]: https://liquidbounce.net
+[Liquid Forum]: https://forums.ccbluex.net
 [Liquid Guilded]: https://www.guilded.gg/CCBlueX
 [Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 [Lumen GitHub]: https://github.com/olliem5/lumen
@@ -190,7 +193,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
-| [Sigma] | **1.8 to 1.16** | [Reddit][Sigma Reddit] |
+| [Sigma] | **1.8 to 1.16**<sup>[7]</sup> | [Reddit][Sigma Reddit] |
 
 [Sigma]: https://sigmaclient.info/
 [Sigma Reddit]: https://www.reddit.com/r/SigmaClient
@@ -220,6 +223,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn4">**4**</sup> May be offline.  
 <sup id="fn5">**5**</sup> Impact is also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
+<sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
 
 [1]: #fn1
 [2]: #fn2
@@ -227,3 +231,4 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 [4]: #fn4
 [5]: #fn5
 [6]: #fn6
+[7]: #fn7
