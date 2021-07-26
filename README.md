@@ -223,7 +223,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn4">**4**</sup> May be offline.  
 <sup id="fn5">**5**</sup> Impact is also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
-<sup id="fn7">**7**</sup> Sigma client is technically 1.16.4 but uses viaversion to connect to servers on lower versions
+<sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
 
 [1]: #fn1
 [2]: #fn2
