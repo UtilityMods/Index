@@ -40,7 +40,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
-| [Inertia]       | **1.14.4 to 1.16.5** | [Discord][Inertia Discord] |
+| [Inertia]       | **1.14.4 to 1.16.5** | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
@@ -64,6 +64,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 [Inertia]: https://inertiaclient.com/
 [Inertia Discord]: https://discord.gg/ZyMKgSm
+[Inertia Issues]: https://github.com/THEREALWWEFAN231/Inertia
 
 [Jex]: https://jexclient.com
 [Jex Discord]: https://discord.gg/msV9ek4Qwt
