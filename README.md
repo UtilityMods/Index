@@ -140,7 +140,9 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
+| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
+| [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 
 #### Fabric mods with Forge variants
@@ -152,8 +154,15 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 These Fabric mods [listed above](#fabric) also offer Forge variants. These are typically compatible with a specific MC version or older versions, such as `1.7.2` or `1.8.9`. Check the mods website for more information.
 
+
+[Future]: https://futureclient.net/
+[Future Forum]: https://futureclient.net/forum/
+
 [Impact]: https://impactclient.net/
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
+
+[Rusher]: https://rusherhack.org/
+[Rushder Issues]: https://github.com/John200410/rusherhack-issues/
 
 [Seppuku]: https://seppuku.pw/
 [Seppuku Discord]: https://discord.gg/nf8Dfj4
@@ -221,7 +230,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn2">**2**</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
 <sup id="fn3">**3**</sup> These clients are not open-source, however their developers have published the source code for various tools each uses.  
 <sup id="fn4">**4**</sup> May be offline.  
-<sup id="fn5">**5**</sup> Impact is also available as a standalone mod.  
+<sup id="fn5">**5**</sup> Also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
 
