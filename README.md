@@ -188,8 +188,8 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 ---
 ### Standalone
 
-| Name | Version | Links | Notes |
-| :--: | :-----: | :---: | ----- |
+| Name | Version | Links |
+| :--: | :-----: | :---: |
 | [Sigma] | **1.8 to 1.16** | [Reddit][Sigma Reddit] |
 
 [Sigma]: https://sigmaclient.info/
