@@ -182,7 +182,6 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 | Momentum | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
 | Past | **1.12.2** | [GitHub][Past GitHub] | Archived |
 | [Postman] | **1.12.2** | [GitHub][Postman GitHub] | Archived |
-| Salhackskid | **1.12.2** | [GitHub][Salhackskid GitHub] | Archived |
 
 [Fira GitHub]: https://github.com/cout970/FiraClient
 [OG GS GitHub]: https://github.com/IUDevman/gamesense-client
@@ -193,7 +192,6 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Past GitHub]: https://github.com/olliem5/past
 [Postman]: http://techale.github.io/postman-website/
 [Postman GitHub]: https://github.com/moomooooo/postman
-[Salhackskid GitHub]: https://github.com/pleasegivesource/SalHackSkid
 
 </details>
 
