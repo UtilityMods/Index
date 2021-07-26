@@ -45,7 +45,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.17.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
-| [Wurst]         | **1.7.2 to 1.17.1+**<sup>[1]</sup> | [GitHub][Wurst GitHub]<br>[Reddit][Wurst Reddit] |
+| [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [GitHub][Wurst GitHub]<br>[Reddit][Wurst Reddit] |
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
