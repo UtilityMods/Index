@@ -90,7 +90,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-| [beach house]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[4]</sup> | WIP |
+| [beach house]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[3]</sup> | WIP |
 | Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
 | BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
 | [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
@@ -100,7 +100,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [LiquidBounce] | **1.17.1**   | [Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
-| Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[5]</sup> | WIP |
+| Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
 | Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
 | Toast Client   | **1.16.5**   | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] | Unknown |
 
@@ -137,7 +137,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
-| [Impact]<sup>[6]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[7]</sup> |
+| [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 
 #### Fabric mods with Forge variants
@@ -216,11 +216,10 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 
 <sup id="fn1">**1**</sup> Older Minecraft versions may be using Forge.  
 <sup id="fn2">**2**</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
-<sup id="fn3">**3**</sup> Quantum itself is not open-source, but the developers have published the source code for some tools Quantum uses.  
-<sup id="fn4">**4**</sup> beach house itself is not open-source, but the developers have published the source code for some tools beach house uses.  
-<sup id="fn5">**5**</sup> May be offline.  
-<sup id="fn6">**6**</sup> Impact is also available as a standalone mod.  
-<sup id="fn7">**7**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
+<sup id="fn3">**3**</sup> These clients are not open-source, however their developers have published the source code for various tools each uses.  
+<sup id="fn4">**4**</sup> May be offline.  
+<sup id="fn5">**5**</sup> Impact is also available as a standalone mod.  
+<sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 
 [1]: #fn1
 [2]: #fn2
@@ -228,4 +227,3 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 [4]: #fn4
 [5]: #fn5
 [6]: #fn6
-[7]: #fn7
