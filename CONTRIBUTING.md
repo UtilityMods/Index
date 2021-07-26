@@ -8,6 +8,7 @@ Your submission **must**:
 - include either a link to your source code or support server<sup>[1]</sup>
 - be placed in the proper modloader category
 - be up-to-date with the current upstream `master` branch
+- update the `Last updated` date using the ISO 8601 as defined [here]
 
 Your submission **must not**:
 
@@ -38,3 +39,4 @@ Please note that a skid should **not** be confused with a [port] or a [fork]. So
 [2]: #2
 [port]: https://en.wikipedia.org/wiki/Porting
 [fork]: https://en.wikipedia.org/wiki/Fork_(software_development)
+[here]: https://www.iso.org/iso-8601-date-and-time-format.html
