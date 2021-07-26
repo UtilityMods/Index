@@ -37,7 +37,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum] |
+| [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | [Inertia]       | **1.14.4 to 1.16.5** | [Discord][Inertia Discord] |
@@ -49,6 +49,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
+[Aristois guilded]: https://guilded.gg/Aristois
 
 [Ares]: https://aresclient.org/
 [Ares Discord]: https://discord.com/invite/3cdCacJ
@@ -97,7 +98,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
 | FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
 | GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| [LiquidBounce] | **1.17.1**   | [Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
+| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum][Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
@@ -119,6 +120,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [FrostBurn GitHub]: https://github.com/evaan/FrostBurn
 [GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
 [LiquidBounce]: https://liquidbounce.net
+[Liquid Forum]: https://forums.ccbluex.net
 [Liquid Guilded]: https://www.guilded.gg/CCBlueX
 [Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 [Lumen GitHub]: https://github.com/olliem5/lumen
