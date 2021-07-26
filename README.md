@@ -90,7 +90,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-| [beach house]  |  **1.16.5?** | [GitHub][beach house GitHub]<sup>[4]</sup> | WIP |
+| [beach house]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[4]</sup> | WIP |
 | Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
 | BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
 | [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
