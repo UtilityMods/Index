@@ -39,7 +39,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
 | [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
-| [Bleach]        | **1.16.5 to 1.17.1** | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
+| [Bleach]        | **1.14.4 to 1.17.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
@@ -224,7 +224,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 
 ## Footnotes
 
-<sup id="fn1">**1**</sup> Older Minecraft versions may be using Forge.  
+<sup id="fn1">**1**</sup> Older Minecraft versions may be using Forge or may not be actively developed.  
 <sup id="fn2">**2**</sup> KAMI should **not** be confused with the "Kami Blue" utility mod, which has been archived and is no longer maintained.  
 <sup id="fn3">**3**</sup> These clients are not open-source, however their developers have published the source code for various tools each uses.  
 <sup id="fn4">**4**</sup> May be offline.  
