@@ -146,6 +146,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
+| [Wurst+3] | **1.12.2** | [Github][Wurst+3 github] |
 
 #### Fabric mods with Forge variants
 
@@ -176,6 +177,9 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Seppuku]: https://seppuku.pw/
 [Seppuku Discord]: https://discord.gg/nf8Dfj4
 [Seppuku GitHub]: https://github.com/seppukudevelopment/seppuku
+
+[Wurst+3]: https://discord.com/invite/hvnZePKQHx
+[Wurst+3 github]: https://github.com/WurstPlus/wurst-plus-three
 
 
 #### Archived & WIP (Forge)
