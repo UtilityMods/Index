@@ -142,6 +142,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | :--: | :-----: | :---: |
 | [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
 | [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
+| [Konas] | **1.12.2 - has viaVersion** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
@@ -161,6 +162,10 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 [Abyss]: https://abyssclient.com/
 [Abyss Discord]: https://discord.com/invite/2kJV6ZQBgX
+
+[Konas]:https://konasclient.com/
+[Konas Discord]: https://discord.com/invite/gpVZ4Y6cpq
+[Konas Issues]: https://github.com/DarkiBoi/konas-issues
 
 [Impact]: https://impactclient.net/
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
