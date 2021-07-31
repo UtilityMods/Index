@@ -140,14 +140,14 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
-| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
 | [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
-| [Konas] | **1.12.2 - has viaVersion** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
+| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
+| [Konas] | **1.12.2 - has viaVersion** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
+| [Phobos]<sup>[8]</sup> | **1.12.2** | [GoPro's clean version][GoPro's clean version] |
 | [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 | [Wurst+3] | **1.12.2** | [Github][Wurst+3 github] |
-| [Phobos]<sup>[8]</sup> | **1.12.2** | [GoPro's clean version][GoPro's clean version] |
 
 #### Fabric mods with Forge variants
 
