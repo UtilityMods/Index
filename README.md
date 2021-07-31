@@ -141,7 +141,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
-| [Abyss] | **1.12.2** | [Discord][Future Forum] |
+| [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
@@ -160,7 +160,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Future Forum]: https://futureclient.net/forum/
 
 [Abyss]: https://abyssclient.com/
-[Abyss Discod]: https://discord.com/invite/2kJV6ZQBgX
+[Abyss Discord]: https://discord.com/invite/2kJV6ZQBgX
 
 [Impact]: https://impactclient.net/
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
