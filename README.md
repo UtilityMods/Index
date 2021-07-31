@@ -147,6 +147,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 | [Wurst+3] | **1.12.2** | [Github][Wurst+3 github] |
+| [Phobos]<sup>[8]</sup> | **1.12.2** | [GoPro's clean version][GoPro's clean version] |
 
 #### Fabric mods with Forge variants
 
@@ -181,6 +182,8 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Wurst+3]: https://discord.com/invite/hvnZePKQHx
 [Wurst+3 github]: https://github.com/WurstPlus/wurst-plus-three
 
+[GoPro's clean version]: https://github.com/Gopro336/CLEAN_Phobos_1.9.0-BUILDABLE-SRC
+[Phobos]: https://discord.gg/Cq6G2zyMsv
 
 #### Archived & WIP (Forge)
 <details>
@@ -244,6 +247,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn5">**5**</sup> Also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
+<sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. Since is it so widespread and commonly used to pvp it is in this index. There are some people that put rats in phobos so it is recommended that you stick with gopros version on github (it is very incompatible so if you want then take the risk and download some of the compatible versions out there you can.) All links related to phobos on this index are **SAFE**.
 
 [1]: #fn1
 [2]: #fn2
@@ -252,3 +256,4 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 [5]: #fn5
 [6]: #fn6
 [7]: #fn7
+[8]: #fn8
