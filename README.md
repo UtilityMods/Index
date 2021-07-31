@@ -247,7 +247,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn5">**5**</sup> Also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
-<sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. All links related to phobos on this index are **SAFE**.  
+<sup id="fn8">**8**</sup> <br> Phobos has not been officialy released by the devs but instead leaked by multiple people. All links related to phobos on this index are **SAFE**.  
 
 [1]: #fn1
 [2]: #fn2
