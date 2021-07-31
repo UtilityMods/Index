@@ -247,7 +247,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn5">**5**</sup> Also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
-<sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. Since is it so widespread and commonly used to pvp it is in this index. There are some people that put rats in phobos so it is recommended that you stick with gopros version on github (it is very incompatible so if you want then take the risk and download some of the compatible versions out there you can.) All links related to phobos on this index are **SAFE**.
+<sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. Since is it commonly used to pvp it is in this index. All links related to phobos on this index are **SAFE**.
 
 [1]: #fn1
 [2]: #fn2
