@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-07-26`**
+**`Last updated: 2021-07-31`**
 
 </div>
 
@@ -140,10 +140,14 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
+| [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
 | [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
+| [Konas] | **1.12.2 - has viaVersion** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
+| [Phobos]<sup>[8]</sup> | **1.12.2** | [GoPro's clean version][GoPro's clean version] |
 | [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
+| [Wurst+3] | **1.12.2** | [Github][Wurst+3 github] |
 
 #### Fabric mods with Forge variants
 
@@ -158,6 +162,13 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Future]: https://futureclient.net/
 [Future Forum]: https://futureclient.net/forum/
 
+[Abyss]: https://abyssclient.com/
+[Abyss Discord]: https://discord.com/invite/2kJV6ZQBgX
+
+[Konas]:https://konasclient.com/
+[Konas Discord]: https://discord.com/invite/gpVZ4Y6cpq
+[Konas Issues]: https://github.com/DarkiBoi/konas-issues
+
 [Impact]: https://impactclient.net/
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
 
@@ -168,6 +179,11 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Seppuku Discord]: https://discord.gg/nf8Dfj4
 [Seppuku GitHub]: https://github.com/seppukudevelopment/seppuku
 
+[Wurst+3]: https://discord.com/invite/hvnZePKQHx
+[Wurst+3 github]: https://github.com/WurstPlus/wurst-plus-three
+
+[GoPro's clean version]: https://github.com/Gopro336/CLEAN_Phobos_1.9.0-BUILDABLE-SRC
+[Phobos]: https://discord.gg/Cq6G2zyMsv
 
 #### Archived & WIP (Forge)
 <details>
@@ -231,6 +247,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn5">**5**</sup> Also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
+<br> <sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. All links related to phobos on this index are **SAFE**.  
 
 [1]: #fn1
 [2]: #fn2
@@ -239,3 +256,4 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 [5]: #fn5
 [6]: #fn6
 [7]: #fn7
+[8]: #fn8
