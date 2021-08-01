@@ -194,6 +194,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 | FiraClient | **1.12.2** | [GitHub][Fira GitHub] | Archived |
 | Gamesense | **1.12.2** | [GitHub][OG GS GitHub] | Archived |
 | [Kami Blue] | **1.12.2** | [GitHub][KB GitHub] | Archived |
+| [LiquidBounce] | **1.8.9**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Luchadora | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
 | Momentum | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
 | Past | **1.12.2** | [GitHub][Past GitHub] | Archived |
@@ -203,6 +204,10 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [OG GS GitHub]: https://github.com/IUDevman/gamesense-client
 [Kami Blue]: https://kamiblue.org/
 [KB GitHub]: https://github.com/kami-blue/client
+[LiquidBounce]: https://liquidbounce.net
+[Liquid Forum]: https://forums.ccbluex.net
+[Liquid Guilded]: https://www.guilded.gg/CCBlueX
+[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 [Luchadora GitHub]: https://github.com/x4e/Luchadora
 [Momentum GitHub]: https://github.com/linustouchtips/momentum
 [Past GitHub]: https://github.com/olliem5/past
