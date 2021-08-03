@@ -145,7 +145,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Konas] | **1.12.2** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
 | Phobos<sup>[8]</sup> | **1.12.2** | [Discord][Phobos Discord]<br>[GitHub][Phobos Github] |
-| [Rusher] | **1.12.2** | [Issues][Rushder Issues] |
+| [RusherHack] | **1.12.2** | [Issues][Rusher Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 | Wurst+3 | **1.12.2** | [Discord][Wurst+3 Discord]<br>[Github][Wurst+3 github] |
 
@@ -172,8 +172,8 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Impact]: https://impactclient.net/
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
 
-[Rusher]: https://rusherhack.org/
-[Rushder Issues]: https://github.com/John200410/rusherhack-issues/
+[RusherHack]: https://rusherhack.org/
+[Rusher Issues]: https://github.com/John200410/rusherhack-issues/
 
 [Seppuku]: https://seppuku.pw/
 [Seppuku Discord]: https://discord.gg/nf8Dfj4
