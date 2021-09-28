@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-08-31`**
+**`Last updated: 2021-09-28`**
 
 </div>
 
@@ -44,6 +44,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
+| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.17.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
@@ -78,6 +79,11 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [KAMI Discord]: https://discord.gg/9hvwgeg
 [KAMI GitHub]: https://github.com/zeroeightysix/KAMI
 
+[LiquidBounce]: https://liquidbounce.net
+[Liquid Forum]: https://forums.ccbluex.net
+[Liquid Guilded]: https://www.guilded.gg/CCBlueX
+[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
+
 [Meteor Client]: https://meteorclient.com/
 [Meteor Discord]: https://meteorclient.com/discord
 [Meteor GitHub]: https://meteorclient.com/github
@@ -103,7 +109,6 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
 | FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
 | GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
@@ -124,10 +129,6 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [FrostBurn Discord]: https://discord.gg/XkpYgpfHtc
 [FrostBurn GitHub]: https://github.com/evaan/FrostBurn
 [GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
-[LiquidBounce]: https://liquidbounce.net
-[Liquid Forum]: https://forums.ccbluex.net
-[Liquid Guilded]: https://www.guilded.gg/CCBlueX
-[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 [Lumen GitHub]: https://github.com/olliem5/lumen
 [MineClient Discord]: https://discord.gg/DC358waTEZ
 [MineClient GitHub]: https://github.com/ChiquitaV2/MineClient
