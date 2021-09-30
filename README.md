@@ -189,7 +189,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Wurst+3 Discord]: https://discord.com/invite/hvnZePKQHx
 
 [Phobos Github]: https://github.com/Gopro336/CLEAN_Phobos_1.9.0-BUILDABLE-SRC
-[Phobos Discord]: https://discord.gg/Cq6G2zyMsv
+[Phobos Discord]: https://discord.gg/VFyKPZrJNG
 
 [Lambda Github]: https://github.com/lambda-client/lambda
 [Lambda Discord]: https://discord.com/invite/QjfBxJzE5x
