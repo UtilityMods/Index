@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-07-31`**
+**`Last updated: 2021-09-28`**
 
 </div>
 
@@ -21,7 +21,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | :-------: | ----------- | :-----: |
 | Fabric | Fabric is a lightweight, experimental modding toolchain for Minecraft. Much newer than Forge. | [Fabric] |
 | Forge | Arguably the most popular modding API for Minecraft. Most older (around MC 1.12) mods are written using Forge. Forge does have support for newer MC versions, but developers tend to switch to Fabric for newer MC. | [Forge] |
-| Standalone | This is a more primitive method of modding where devs don't use a dedicated modloader, and rather modify the game directly. A popular example of this style is [Optifine], which can be loaded into Minecraft without setting up any other modloaders. These are usually done by making new installation in the launcher.  | *N/A* |
+| Standalone | This is a more primitive method of modding where devs don't use a dedicated modloader, and rather modify the game directly. A popular example of this style is [Optifine], which can be loaded into Minecraft without setting up any other modloaders. | *N/A* |
 
 **Please note:** Forge and Fabric are **not** designed to work alongside eachother. You are free to try it, but don't be surprised if it doesn't work and no one helps you.
 
@@ -40,9 +40,11 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.14.4 to 1.17.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
+| Bloomware       | **1.16.5**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
+| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.17.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
@@ -62,6 +64,9 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Bleach Discord]: https://bleachhack.org/discord
 [Bleach GitHub]: https://github.com/BleachDrinker420/BleachHack
 
+[Bloomware Discord]: https://discord.gg/D4G7JN5d7m
+[Bloomware Github]: https://github.com/TheFishDevs/Bloomware
+
 [Inertia]: https://inertiaclient.com/
 [Inertia Discord]: https://discord.gg/ZyMKgSm
 [Inertia Issues]: https://github.com/THEREALWWEFAN231/Inertia
@@ -73,6 +78,11 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [KAMI]: https://kamiclient.com
 [KAMI Discord]: https://discord.gg/9hvwgeg
 [KAMI GitHub]: https://github.com/zeroeightysix/KAMI
+
+[LiquidBounce]: https://liquidbounce.net
+[Liquid Forum]: https://forums.ccbluex.net
+[Liquid Guilded]: https://www.guilded.gg/CCBlueX
+[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 
 [Meteor Client]: https://meteorclient.com/
 [Meteor Discord]: https://meteorclient.com/discord
@@ -99,7 +109,6 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
 | FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
 | GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
@@ -120,10 +129,6 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [FrostBurn Discord]: https://discord.gg/XkpYgpfHtc
 [FrostBurn GitHub]: https://github.com/evaan/FrostBurn
 [GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
-[LiquidBounce]: https://liquidbounce.net
-[Liquid Forum]: https://forums.ccbluex.net
-[Liquid Guilded]: https://www.guilded.gg/CCBlueX
-[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 [Lumen GitHub]: https://github.com/olliem5/lumen
 [MineClient Discord]: https://discord.gg/DC358waTEZ
 [MineClient GitHub]: https://github.com/ChiquitaV2/MineClient
@@ -194,7 +199,6 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 | FiraClient | **1.12.2** | [GitHub][Fira GitHub] | Archived |
 | Gamesense | **1.12.2** | [GitHub][OG GS GitHub] | Archived |
 | [Kami Blue] | **1.12.2** | [GitHub][KB GitHub] | Archived |
-| [LiquidBounce] | **1.8.9**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | WIP |
 | Luchadora | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
 | Momentum | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
 | Past | **1.12.2** | [GitHub][Past GitHub] | Archived |
@@ -204,10 +208,6 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [OG GS GitHub]: https://github.com/IUDevman/gamesense-client
 [Kami Blue]: https://kamiblue.org/
 [KB GitHub]: https://github.com/kami-blue/client
-[LiquidBounce]: https://liquidbounce.net
-[Liquid Forum]: https://forums.ccbluex.net
-[Liquid Guilded]: https://www.guilded.gg/CCBlueX
-[Liquid GitHub]: https://github.com/CCBlueX/LiquidBounce
 [Luchadora GitHub]: https://github.com/x4e/Luchadora
 [Momentum GitHub]: https://github.com/linustouchtips/momentum
 [Past GitHub]: https://github.com/olliem5/past
@@ -233,24 +233,6 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-
-</details>
-
----
-### Client Archives
-| Name | Links | Info |
-| :--: | :---: | :--: |
-| Anarchy Links Hub | [Discord][ALH discord] | Not really a client archive but has links to all things anarchy | 
-| Ginn's Utility Mod Archive | [Discord][Ginn UMA] | A client archive that probably has all the clients |
-| Minecraft Utility Mods | [Discord][MUM] | A client archive that actually features fabric mods and helps with coding |
-| Phantom's Utility Mod Archive | [Discord][Phantom's UMA] | Client archive owned by Phantom826#3340 |
-| Utility Mod Archive | [Discord][UMA] | Just a normal archive |
-
-[ALH discord]: https://discord.gg/33k73KkBeh
-[Ginn UMA]: https://discord.gg/XRQeqcrqNk
-[MUM]: https://discord.gg/sK4rK2qCn8
-[Phantom's UMA]: https://discord.gg/aSKd75jJWP
-[UMA]: https://discord.gg/KY6hxju
 
 </details>
 
