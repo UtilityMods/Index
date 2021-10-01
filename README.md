@@ -194,6 +194,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Lambda Github]: https://github.com/lambda-client/lambda
 [Lambda Discord]: https://discord.com/invite/QjfBxJzE5x
 
+
 #### Archived & WIP (Forge)
 <details>
 <summary><em>Expand list</em></summary>
