@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-09-28`**
+**`Last updated: 2021-09-30`**
 
 </div>
 
@@ -146,7 +146,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
-| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forums] |
+| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Konas] | **1.12.2** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
 | Phobos<sup>[8]</sup> | **1.12.2** | [Discord][Phobos Discord]<br>[GitHub][Phobos Github] |
@@ -179,7 +179,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Impact Issues]: https://github.com/ImpactDevelopment/ImpactIssues
 
 [Rusher]: https://rusherhack.org/
-[Rushder Issues]: https://github.com/John200410/rusherhack-issues/
+[Rusher Issues]: https://github.com/John200410/rusherhack-issues/
 
 [Seppuku]: https://seppuku.pw/
 [Seppuku Discord]: https://discord.gg/nf8Dfj4
