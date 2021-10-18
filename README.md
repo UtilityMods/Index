@@ -207,7 +207,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 | Luchadora | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
 | Momentum | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
 | Past | **1.12.2** | [GitHub][Past GitHub] | Archived |
-| [Postman] | **1.12.2** | [GitHub][Postman GitHub] | Archived |
+| [postman] | **1.12.2** | [GitHub][Postman GitHub] | Archived |
 
 [Fira GitHub]: https://github.com/cout970/FiraClient
 [OG GS GitHub]: https://github.com/IUDevman/gamesense-client
