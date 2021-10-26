@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-09-30`**
+**`Last updated: 2021-10-26`**
 
 </div>
 
@@ -48,6 +48,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Meteor Client] | **1.17.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.17.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
+| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] |
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -96,6 +97,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Wurst GitHub]: https://github.com/Wurst-Imperium/Wurst7
 [Wurst Reddit]: https://www.reddit.com/r/WurstClient/
 
+[Tensor GitHub]: https://github.com/IUDevman/Tensor
 #### Archived & WIP (Fabric)
 <details>
 <summary><em>Expand list</em></summary>
