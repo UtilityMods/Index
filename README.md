@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2021-12-12`**
+**`Last updated: 2021-12-15`**
 
 </div>
 
@@ -40,7 +40,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.14.4 to 1.17.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
-| Bloomware       | **1.16.5**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
+| Bloomware       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
@@ -66,7 +66,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Bleach GitHub]: https://github.com/BleachDrinker420/BleachHack
 
 [Bloomware Discord]: https://discord.gg/D4G7JN5d7m
-[Bloomware Github]: https://github.com/TheFishDevs/Bloomware
+[Bloomware Github]: https://github.com/TheBreakery/Bloomware
 
 [Inertia]: https://inertiaclient.com/
 [Inertia Discord]: https://discord.gg/ZyMKgSm
