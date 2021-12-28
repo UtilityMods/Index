@@ -44,7 +44,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
-| [LiquidBounce] | **1.17.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
+| [LiquidBounce] | **1.18.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
 | [Meteor Client] | **1.18.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.18.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
