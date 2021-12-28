@@ -36,7 +36,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links |
 | :--: | :-----: | :---: |
-| [Ares]          | **1.16.4**           | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
+| [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
 | [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
 | [Bleach]        | **1.17.1 to 1.18.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
