@@ -58,8 +58,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Ares Discord]: https://discord.com/invite/3cdCacJ
 [Ares GitHub]: https://github.com/AresClient
 
-[Atomic Discord]: https://discord.gg/rvC7F798xQ 
-[Atmoic GitHub]: https://github.com/cornos/Atomic
+[Atomic Discord]: https://discord.gg/f2mAAz5pHF 
+[Atomic GitHub]: https://github.com/0x151/Atomic
 
 [Bleach]: https://bleachhack.org/
 [Bleach Discord]: https://bleachhack.org/discord
