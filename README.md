@@ -38,7 +38,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | :--: | :-----: | :---: |
 | [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
 | [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
-| Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atmoic GitHub] |
+| Atomic          | **1.17.1**             | [Discord][Atomic Discord]<br>[GitHub][Atomic GitHub] |
 | [Bleach]        | **1.17.1 to 1.18.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | Bloomware       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
@@ -58,8 +58,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Ares Discord]: https://discord.com/invite/3cdCacJ
 [Ares GitHub]: https://github.com/AresClient
 
-[Atomic Discord]: https://discord.gg/rvC7F798xQ 
-[Atmoic GitHub]: https://github.com/cornos/Atomic
+[Atomic Discord]: https://discord.gg/f2mAAz5pHF 
+[Atomic GitHub]: https://github.com/0x151/Atomic
 
 [Bleach]: https://bleachhack.org/
 [Bleach Discord]: https://bleachhack.org/discord
