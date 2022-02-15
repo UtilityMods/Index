@@ -39,8 +39,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
 | [Aristois]      | **1.8.9 to 1.18.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | [Bleach]        | **1.17.1 to 1.18.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
-| [Bloomware]       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
-| [Coffee]       | **1.18.1**           | [Discord][Coffee Discord]<br>[GitHub][Coffee GitLab] |
+| Bloomware       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
+| Coffee       | **1.18.1**           | [Discord][Coffee Discord]<br>[GitHub][Coffee GitLab] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.18.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
@@ -48,7 +48,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Meteor Client] | **1.18.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.18.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.19**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
-| [Tensor]          | **1.17.1**             | [GitHub][Tensor GitHub] |
+| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] |
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -104,19 +104,19 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-| [Atomic]          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitHub][Atomic GitLab] | Archived |
+| Atomic          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitHub][Atomic GitLab] | Archived |
 | [Beach House]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[3]</sup> | WIP |
-| [Bleach epearl edition] | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
-| [BubbyClient]    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
+| Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
+| BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
 | [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
-| [FaxHax]         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
-| [FrostBurn]      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
+| FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
+| FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
 | [GS-Fabric]      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| [Lumen]          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
-| [MineClient]     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
-| [Numa]           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
-| [Phobos-1.16]    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
-| [Toast Client]   | **1.16.5**   | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] | Unknown |
+| Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
+| MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
+| Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
+| Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
+| Toast Client   | **1.16.5**   | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] | Unknown |
 
 
 [beach house]: https://beach-house-development.github.io/website/
