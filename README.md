@@ -40,7 +40,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Aristois]      | **1.8.9 to 1.18.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | [Bleach]        | **1.17.1 to 1.18.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | Bloomware       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
-| Coffee       | **1.18.1**           | [Discord][Coffee Discord]<br>[GitHub][Coffee GitLab] |
+| Coffee       | **1.18.1**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitLab] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.18.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
@@ -104,7 +104,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-| Atomic          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitHub][Atomic GitLab] | Archived |
+| Atomic          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitLab][Atomic GitLab] | Archived |
 | [Beach House]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[3]</sup> | WIP |
 | Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
 | BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
