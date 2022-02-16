@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2022-1-19`**
+**`Last updated: 2022-2-15`**
 
 </div>
 
@@ -37,17 +37,17 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.17.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
-| Atomic          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitHub][Atomic GitHub] |
+| [Aristois]      | **1.8.9 to 1.18.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | [Bleach]        | **1.17.1 to 1.18.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | Bloomware       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
+| Coffee       | **1.18.1**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitLab] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
-| [Jex]           | **1.17.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
+| [Jex]           | **1.18.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
 | [LiquidBounce] | **1.18.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
 | [Meteor Client] | **1.18.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.18.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
-| [Wurst]         | **1.8 to 1.17.1**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
+| [Wurst]         | **1.8 to 1.19**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
 | Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] |
 
 [Aristois]: https://aristois.net/
@@ -58,15 +58,15 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Ares Discord]: https://discord.com/invite/3cdCacJ
 [Ares GitHub]: https://github.com/AresClient
 
-[Atomic Discord]: https://discord.gg/f2mAAz5pHF 
-[Atomic GitHub]: https://github.com/0x151/Atomic
-
 [Bleach]: https://bleachhack.org/
 [Bleach Discord]: https://bleachhack.org/discord
 [Bleach GitHub]: https://github.com/BleachDrinker420/BleachHack
 
 [Bloomware Discord]: https://discord.gg/D4G7JN5d7m
 [Bloomware Github]: https://github.com/TheBreakery/Bloomware
+
+[Coffee Discord]: https://discord.gg/JwNVwUurbP
+[Coffee GitLab]: https://gitlab.com/0x151/coffeeclientpublic
 
 [Inertia]: https://inertiaclient.com/
 [Inertia Discord]: https://discord.gg/ZyMKgSm
@@ -104,13 +104,14 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 | Name | Version | Links | Status |
 | :--: | :-----: | :---: | :----: |
-| [beach house]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[3]</sup> | WIP |
+| Atomic          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitLab][Atomic GitLab] | Archived |
+| [Beach House]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[3]</sup> | WIP |
 | Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
 | BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
 | [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
 | FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
 | FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
-| GS-Fabric      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
+| [GS-Fabric]      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
@@ -119,6 +120,8 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 
 [beach house]: https://beach-house-development.github.io/website/
+[Atomic Discord]: https://discord.gg/JwNVwUurbP
+[Atomic GitLab]: https://gitlab.com/0x151/atomic
 [beach house GitHub]: https://github.com/beach-house-development
 [Bleach epearl Discord]: https://discord.com/invite/WkdpPZ6
 [Bleach epearl GitHub]: https://github.com/22s/bleachhack-1.16-epearl-edition
