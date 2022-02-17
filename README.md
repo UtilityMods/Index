@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2022-2-15`**
+**`Last updated: 2022-2-16`**
 
 </div>
 
@@ -151,7 +151,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
-| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
+| [Future]<sup>[5]</sup> | **1.8.9, 1.12.2 & 1.14.4** | [Forums][Future Forum] |
 | [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
 | [Konas] | **1.12.2** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
 | Phobos<sup>[8]</sup> | **1.12.2** | [Discord][Phobos Discord]<br>[GitHub][Phobos Github] |
