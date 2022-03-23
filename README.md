@@ -49,7 +49,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Meteor Client] | **1.18.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.18.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.19**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
-| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] |
+| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] | 
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -120,6 +120,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
+| Konas-fabric   | **1.16.5**   | [GitHub][Konas-fabric GitHub] | Archived |
 | Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
 | Toast Client   | **1.16.5**   | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] | Unknown |
 
@@ -139,6 +140,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [FrostBurn Discord]: https://discord.gg/XkpYgpfHtc
 [FrostBurn GitHub]: https://github.com/evaan/FrostBurn
 [GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
+[Konas-fabric GitHub]: https://github.com/KuroHere/konas-fabric
 [Lumen GitHub]: https://github.com/olliem5/lumen
 [MineClient Discord]: https://discord.gg/DC358waTEZ
 [MineClient GitHub]: https://github.com/ChiquitaV2/MineClient
