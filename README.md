@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2022-2-15`**
+**`Last updated: 2022-02-23`**
 
 </div>
 
@@ -39,8 +39,9 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
 | [Aristois]      | **1.8.9 to 1.18.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
 | [Bleach]        | **1.17.1 to 1.18.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
-| Bloomware       | **1.18.1**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
-| Coffee       | **1.18.1**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitLab] |
+| Bloomware     | **1.18.2**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
+| Coffee        | **1.18.1**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitLab] |
+| [Hypnotic]      | **1.18.1**           | [Discord][Hypnotic Discord]<br>[GitHub][Hypnotic GitHub] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.18.1**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
@@ -48,7 +49,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Meteor Client] | **1.18.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.18.1**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.19**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
-| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] |
+| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] | 
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -67,6 +68,10 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 
 [Coffee Discord]: https://discord.gg/JwNVwUurbP
 [Coffee GitLab]: https://gitlab.com/0x151/coffeeclientpublic
+
+[Hypnotic]: https://hypnotic.dev/
+[Hypnotic Discord]: https://discord.gg/aZStDUnb29
+[Hypnotic Github]: https://github.com/Hypnotic-Development/Hypnotic-Client
 
 [Inertia]: https://inertiaclient.com/
 [Inertia Discord]: https://discord.gg/ZyMKgSm
@@ -115,6 +120,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
 | MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
 | Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
+| Konas-fabric   | **1.16.5**   | [GitHub][Konas-fabric GitHub] | Archived |
 | Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
 | Toast Client   | **1.16.5**   | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] | Unknown |
 
@@ -134,6 +140,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [FrostBurn Discord]: https://discord.gg/XkpYgpfHtc
 [FrostBurn GitHub]: https://github.com/evaan/FrostBurn
 [GS-Fabric]: https://github.com/IUDevman/gamesense-fabric
+[Konas-fabric GitHub]: https://github.com/KuroHere/konas-fabric
 [Lumen GitHub]: https://github.com/olliem5/lumen
 [MineClient Discord]: https://discord.gg/DC358waTEZ
 [MineClient GitHub]: https://github.com/ChiquitaV2/MineClient
