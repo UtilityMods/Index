@@ -166,6 +166,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | [Rusher] | **1.12.2** | [Issues][Rusher Issues] |
 | [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
 | Wurst+3 | **1.12.2** | [Discord][Wurst+3 Discord]<br>[Github][Wurst+3 github] |
+| FencingF+2 | **1.12.2** | [Discord][FencingF+2 Discord]<br>[Github][FencingF+2 GitHub] |
 
 #### Fabric mods with Forge variants
 
@@ -174,7 +175,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 - Inertia
 - Wurst
 
-These Fabric mods [listed above](#fabric) also offer Forge variants. These are typically compatible with a specific MC version or older versions, such as `1.7.2` or `1.8.9`. Check the mods website for more information.
+These Fabric mods [listed above](#fabric) also offer Forge variants. These are typically compatible with a specific MC version or older versions, such as `1.7.2` or `1.8.9`. Check the mod’s website for more information.
 
 
 [Future]: https://futureclient.net/
@@ -206,6 +207,8 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 [Lambda Github]: https://github.com/lambda-client/lambda
 [Lambda Discord]: https://discord.com/invite/QjfBxJzE5x
 
+[FencingF+2 GitHub]: https://github.com/FencingF/FencingFPlusTwo
+[FencingF+2 Discord]: https://discord.gg/TNzjpYkvsT
 
 #### Archived & WIP (Forge)
 <details>
