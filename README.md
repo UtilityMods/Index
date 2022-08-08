@@ -17,11 +17,11 @@ The index includes clients for [Fabric](#fabric) and [Forge](#forge) (as well as
 
 A modloader is exactly what it sounds like: it loads mods, hence "mod loader". These loaders make it easy for developers to write mods and even easier for players to install mods.
 
-| Modloader | Description | Website |
-| :-------: | ----------- | :-----: |
-| Fabric | Fabric is a lightweight, experimental modding toolchain for Minecraft. Much newer than Forge. | [Fabric] |
-| Forge | Arguably the most popular modding API for Minecraft. Most older (around MC 1.12) mods are written using Forge. Forge does have support for newer MC versions, but developers tend to switch to Fabric for newer MC. | [Forge] |
-| Standalone | This is a more primitive method of modding where devs don't use a dedicated modloader, and rather modify the game directly. A popular example of this style is [Optifine], which can be loaded into Minecraft without setting up any other modloaders. | *N/A* |
+| Modloader  | Description                                                                                                                                                                                                                                            | Website  |
+|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|
+| Fabric     | Fabric is a lightweight, experimental modding toolchain for Minecraft. Much newer than Forge.                                                                                                                                                          | [Fabric] |
+| Forge      | Arguably the most popular modding API for Minecraft. Most older (around MC 1.12) mods are written using Forge. Forge does have support for newer MC versions, but developers tend to switch to Fabric for newer MC.                                    | [Forge]  |
+| Standalone | This is a more primitive method of modding where devs don't use a dedicated modloader, and rather modify the game directly. A popular example of this style is [Optifine], which can be loaded into Minecraft without setting up any other modloaders. | *N/A*    |
 
 **Please note:** Forge and Fabric are **not** designed to work alongside eachother. You are free to try it, but don't be surprised if it doesn't work and no one helps you.
 
@@ -34,22 +34,22 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 ---
 ### Fabric
 
-| Name | Version | Links |
-| :--: | :-----: | :---: |
-| [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.19.2**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
-| [Bleach]        | **1.17.1 to 1.19.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
-| Bloomware     | **1.18.2**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
-| Coffee        | **1.19.1 to 1.19.2**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitHub] |
-| [Hypnotic]      | **1.18.1**           | [Discord][Hypnotic Discord]<br>[GitHub][Hypnotic GitHub] |
-| [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
-| [Jex]           | **1.19**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
-| [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
-| [LiquidBounce] | **1.18.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
-| [Meteor Client] | **1.19.2**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
-| [Quantum]       |  **1.19**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
-| [Wurst]         | **1.8 to 1.19**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
-| Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] | 
+| Name                 | Version                            | Links                                                                         |
+|:---------------------|:-----------------------------------|:------------------------------------------------------------------------------|
+| [Ares]               | **1.18.1**                         | [Discord][Ares Discord]<br>[GitHub][Ares GitHub]                              |
+| [Aristois]           | **1.8.9 to 1.19.2**<sup>[1]</sup>  | [Forum][Aristois forum]<br>[Guilded][Aristois guilded]                        |
+| [Bleach]             | **1.17.1 to 1.19.1**<sup>[1]</sup> | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub]                          |
+| Bloomware            | **1.18.2**                         | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub]                    |
+| Coffee               | **1.19.1 to 1.19.2**               | [Discord][Coffee Discord]<br>[GitHub][Coffee GitHub]                          |
+| [Hypnotic]           | **1.18.1**                         | [Discord][Hypnotic Discord]<br>[GitHub][Hypnotic GitHub]                      |
+| [Inertia]            | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues]                        |
+| [Jex]                | **1.19**                           | [Discord][Jex Discord]<br>[Github][Jex GitHub]                                |
+| [KAMI]<sup>[2]</sup> | **1.16.5**                         | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub]                              |
+| [LiquidBounce]       | **1.18.1**                         | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] |
+| [Meteor Client]      | **1.19.2**                         | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub]                          |
+| [Quantum]            | **1.19**                           | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup>          |
+| [Wurst]              | **1.8 to 1.19**<sup>[1]</sup>      | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub]                              |
+| Tensor               | **1.17.1**                         | [GitHub][Tensor GitHub]                                                       |
 
 [Aristois]: https://aristois.net/
 [Aristois forum]: https://discuss.aristois.net/
@@ -67,7 +67,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Bloomware Github]: https://github.com/TheBreakery/Bloomware-Lite
 
 [Coffee Discord]: https://discord.gg/yxEbQCdDus
-[Coffee GitLab]: https://github.com/Coffee-Client/Coffee
+[Coffee GitHub]: https://github.com/Coffee-Client/Coffee
 
 [Hypnotic]: https://hypnotic.dev/
 [Hypnotic Discord]: https://discord.gg/aZStDUnb29
@@ -107,22 +107,22 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 <details>
 <summary><em>Expand list</em></summary>
 
-| Name | Version | Links | Status |
-| :--: | :-----: | :---: | :----: |
-| Atomic          | **1.17.1 to 1.18.1**             | [Discord][Atomic Discord]<br>[GitLab][Atomic GitLab] | Archived |
-| [Beach House]  |  **1.17.1** | [GitHub][beach house GitHub]<sup>[3]</sup> | WIP |
-| Bleach epearl edition | **1.16.4** | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
-| BubbyClient    | **1.16.1**   | [GitHub][Bubby GitHub] | Archived |
-| [Cornos]       | **1.16.5**   | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub] | Archived |
-| FaxHax         | **1.16.5**   | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub] | Archived |
-| FrostBurn      | **1.17**     | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub] | Unknown|
-| [GS-Fabric]      | **1.16.5**   | [GitHub][GS-Fabric] | Archived |
-| Lumen          | **1.16.5**   | [GitHub][Lumen GitHub] | Archived |
-| MineClient     |  **1.16.5**  | [Discord][MineClient Discord]<br>[Github][MineClient GitHub] | Archived |
-| Numa           |  **1.16.5**  | [Forum][Numa Forum]<sup>[4]</sup> | WIP |
-| Konas-fabric   | **1.16.5**   | [GitHub][Konas-fabric GitHub] | Archived |
-| Phobos-1.16    | **1.16.5**   | [Github][Phobos-1.16 GitHub] | Archived |
-| Toast Client   | **1.16.5**   | [Discord][Toast Discord]<br>[GitHub][Toast GitHub] | Unknown |
+| Name                  | Version              | Links                                                              | Status   |
+|:----------------------|:---------------------|:-------------------------------------------------------------------|:---------|
+| Atomic                | **1.17.1 to 1.18.1** | [Discord][Atomic Discord]<br>[GitLab][Atomic GitLab]               | Archived |
+| [Beach House]         | **1.17.1**           | [GitHub][beach house GitHub]<sup>[3]</sup>                         | WIP      |
+| Bleach epearl edition | **1.16.4**           | [Discord][Bleach epearl Discord]<br>[GitHub][Bleach epearl GitHub] | Archived |
+| BubbyClient           | **1.16.1**           | [GitHub][Bubby GitHub]                                             | Archived |
+| [Cornos]              | **1.16.5**           | [Discord][Cornos Discord]<br>[GitHub][Cornos GitHub]               | Archived |
+| FaxHax                | **1.16.5**           | [Discord][FaxHax Discord]<br>[GitHub][FaxHax GitHub]               | Archived |
+| FrostBurn             | **1.17**             | [Discord][FrostBurn Discord]<br>[GitHub][FrostBurn GitHub]         | Unknown  |
+| [GS-Fabric]           | **1.16.5**           | [GitHub][GS-Fabric]                                                | Archived |
+| Lumen                 | **1.16.5**           | [GitHub][Lumen GitHub]                                             | Archived |
+| MineClient            | **1.16.5**           | [Discord][MineClient Discord]<br>[Github][MineClient GitHub]       | Archived |
+| Numa                  | **1.16.5**           | [Forum][Numa Forum]<sup>[4]</sup>                                  | WIP      |
+| Konas-fabric          | **1.16.5**           | [GitHub][Konas-fabric GitHub]                                      | Archived |
+| Phobos-1.16           | **1.16.5**           | [Github][Phobos-1.16 GitHub]                                       | Archived |
+| Toast Client          | **1.16.5**           | [Discord][Toast Discord]<br>[GitHub][Toast GitHub]                 | Unknown  |
 
 
 [beach house]: https://beach-house-development.github.io/website/
@@ -146,7 +146,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [MineClient GitHub]: https://github.com/ChiquitaV2/MineClient
 [Numa Forum]: https://numaclient.net/
 [Phobos-1.16 GitHub]: https://github.com/MOMIN5/Phobos-1.16
-  
+
 [Toast Discord]: https://discord.gg/PASHZanfyc
 [Toast GitHub]: https://github.com/RemainingToast/ToastClient
 
@@ -155,18 +155,18 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 ---
 ### Forge
 
-| Name | Version | Links |
-| :--: | :-----: | :---: |
-| [Abyss] | **1.12.2** | [Discord][Abyss Discord] |
-| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum] |
-| [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5** | [Issues][Impact Issues]<sup>[6]</sup> |
-| [Konas] | **1.12.2** | [Discord][Konas Discord]<br>[Issues][Konas Issues] |
-| Phobos<sup>[8]</sup> | **1.12.2** | [Discord][Phobos Discord]<br>[GitHub][Phobos Github] |
-| Lambda | **1.12.2** | [Discord][Lambda Discord]<br>[GitHub][Lambda GitHub] |
-| [Rusher] | **1.12.2** | [Issues][Rusher Issues] |
-| [Seppuku] | **1.12.2** | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub] |
-| Wurst+3 | **1.12.2** | [Discord][Wurst+3 Discord]<br>[Github][Wurst+3 github] |
-| FencingF+2 | **1.12.2** | [Discord][FencingF+2 Discord]<br>[Github][FencingF+2 GitHub] |
+| Name                   | Version                      | Links                                                        |
+|:-----------------------|:-----------------------------|:-------------------------------------------------------------|
+| [Abyss]                | **1.12.2**                   | [Discord][Abyss Discord]                                     |
+| [Future]<sup>[5]</sup> | **1.8.9 & 1.12.2 to 1.14.4** | [Forums][Future Forum]                                       |
+| [Impact]<sup>[5]</sup> | **1.11.2 to 1.16.5**         | [Issues][Impact Issues]<sup>[6]</sup>                        |
+| [Konas]                | **1.12.2**                   | [Discord][Konas Discord]<br>[Issues][Konas Issues]           |
+| Phobos<sup>[8]</sup>   | **1.12.2**                   | [Discord][Phobos Discord]<br>[GitHub][Phobos Github]         |
+| Lambda                 | **1.12.2**                   | [Discord][Lambda Discord]<br>[GitHub][Lambda GitHub]         |
+| [Rusher]               | **1.12.2**                   | [Issues][Rusher Issues]                                      |
+| [Seppuku]              | **1.12.2**                   | [Discord][Seppuku Discord]<br>[GitHub][Seppuku GitHub]       |
+| Wurst+3                | **1.12.2**                   | [Discord][Wurst+3 Discord]<br>[Github][Wurst+3 github]       |
+| FencingF+2             | **1.12.2**                   | [Discord][FencingF+2 Discord]<br>[Github][FencingF+2 GitHub] |
 
 #### Fabric mods with Forge variants
 
@@ -214,15 +214,15 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 <details>
 <summary><em>Expand list</em></summary>
 
-| Name        | Version | Links | Status |
-| :--:        | :-----: | :---: | :----: |
-| FiraClient  | **1.12.2** | [GitHub][Fira GitHub] | Archived |
-| Gamesense   | **1.12.2** | [GitHub][OG GS GitHub] | Archived |
-| [Kami Blue] | **1.12.2** | [GitHub][KB GitHub] | Archived |
+| Name        | Version    | Links                      | Status   |
+|:------------|:-----------|:---------------------------|:---------|
+| FiraClient  | **1.12.2** | [GitHub][Fira GitHub]      | Archived |
+| Gamesense   | **1.12.2** | [GitHub][OG GS GitHub]     | Archived |
+| [Kami Blue] | **1.12.2** | [GitHub][KB GitHub]        | Archived |
 | Luchadora   | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
-| Momentum    | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
-| Past        | **1.12.2** | [GitHub][Past GitHub] | Archived |
-| [postman]   | **1.12.2** | [GitHub][Postman GitHub] | Archived |
+| Momentum    | **1.12.2** | [GitHub][Momentum GitHub]  | Archived |
+| Past        | **1.12.2** | [GitHub][Past GitHub]      | Archived |
+| [postman]   | **1.12.2** | [GitHub][Postman GitHub]   | Archived |
 
 [Fira GitHub]: https://github.com/cout970/FiraClient
 [OG GS GitHub]: https://github.com/IUDevman/gamesense-client
@@ -239,8 +239,8 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 ---
 ### Standalone
 
-| Name | Version | Links |
-| :--: | :-----: | :---: |
+| Name    | Version                       | Links                  |
+|:--------|:------------------------------|:-----------------------|
 | [Sigma] | **1.8 to 1.16**<sup>[7]</sup> | [Reddit][Sigma Reddit] |
 
 [Sigma]: https://sigmaclient.info/
@@ -252,7 +252,7 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 <summary><em>Expand list</em></summary>
 
 | Name | Version | Links | Status |
-| :--: | :-----: | :---: | :----: |
+|:-----|:--------|:------|:-------|
 
 </details>
 
@@ -272,7 +272,7 @@ Please consult the [Contribution Guidelines] before opening an Issue or a Pull R
 <sup id="fn5">**5**</sup> Also available as a standalone mod.  
 <sup id="fn6">**6**</sup> Impact previously had a Discord server but it was terminated in a Discord ban-wave.  
 <sup id="fn7">**7**</sup> Sigma is technically 1.16.4 but uses viaversion to connect to servers on lower versions
-<br> <sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. All links related to phobos on this index are **SAFE**.  
+<br> <sup id="fn8">**8**</sup> Phobos has not been officialy released by the devs but instead leaked by multiple people. All links related to phobos on this index are **SAFE**.
 
 [1]: #fn1
 [2]: #fn2
