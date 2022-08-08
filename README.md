@@ -4,7 +4,7 @@ Minecraft Utility Mod Index
 ===
 ***A public index of all (known) Minecraft utility mods***
 
-**`Last updated: 2022-06-10`**
+**`Last updated: 2022-08-08`**
 
 </div>
 
@@ -37,16 +37,16 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 | Name | Version | Links |
 | :--: | :-----: | :---: |
 | [Ares]          | **1.18.1**       | [Discord][Ares Discord]<br>[GitHub][Ares GitHub] |
-| [Aristois]      | **1.8.9 to 1.18.1**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
-| [Bleach]        | **1.17.1 to 1.18.2**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
+| [Aristois]      | **1.8.9 to 1.19.2**<sup>[1]</sup> | [Forum][Aristois forum]<br>[Guilded][Aristois guilded] |
+| [Bleach]        | **1.17.1 to 1.19.1**<sup>[1]</sup>  | [Discord][Bleach Discord]<br>[GitHub][Bleach GitHub] |
 | Bloomware     | **1.18.2**           | [Discord][Bloomware Discord]<br>[GitHub][Bloomware GitHub] |
-| Coffee        | **1.18.1**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitLab] |
+| Coffee        | **1.19.1 to 1.19.2**           | [Discord][Coffee Discord]<br>[GitLab][Coffee GitHub] |
 | [Hypnotic]      | **1.18.1**           | [Discord][Hypnotic Discord]<br>[GitHub][Hypnotic GitHub] |
 | [Inertia]       | **1.12.2 to 1.16.5**<sup>[1]</sup> | [Discord][Inertia Discord]<br>[Issues][Inertia Issues] |
 | [Jex]           | **1.19**             | [Discord][Jex Discord]<br>[Github][Jex GitHub] |
 | [KAMI]<sup>[2]</sup> | **1.16.5**      | [Discord][KAMI Discord]<br>[GitHub][KAMI GitHub] |
 | [LiquidBounce] | **1.18.1**   | [Forum][Liquid Forum]<br>[Guilded][Liquid Guilded]<br>[GitHub][Liquid GitHub] | 
-| [Meteor Client] | **1.18.1**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
+| [Meteor Client] | **1.19.2**           | [Discord][Meteor Discord]<br>[GitHub][Meteor GitHub] |
 | [Quantum]       |  **1.19**            | [Discord][Quantum Discord]<br>[GitHub][Quantum GitHub]<sup>[3]</sup> |
 | [Wurst]         | **1.8 to 1.19**<sup>[1]</sup> | [Reddit][Wurst Reddit]<br>[GitHub][Wurst GitHub] |
 | Tensor          | **1.17.1**             | [GitHub][Tensor GitHub] | 
@@ -64,10 +64,10 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Bleach GitHub]: https://github.com/BleachDrinker420/BleachHack
 
 [Bloomware Discord]: https://discord.gg/D4G7JN5d7m
-[Bloomware Github]: https://github.com/TheBreakery/Bloomware
+[Bloomware Github]: https://github.com/TheBreakery/Bloomware-Lite
 
-[Coffee Discord]: https://discord.gg/JwNVwUurbP
-[Coffee GitLab]: https://gitlab.com/0x151/coffeeclientpublic
+[Coffee Discord]: https://discord.gg/yxEbQCdDus
+[Coffee GitLab]: https://github.com/Coffee-Client/Coffee
 
 [Hypnotic]: https://hypnotic.dev/
 [Hypnotic Discord]: https://discord.gg/aZStDUnb29
@@ -214,15 +214,15 @@ These Fabric mods [listed above](#fabric) also offer Forge variants. These are t
 <details>
 <summary><em>Expand list</em></summary>
 
-| Name | Version | Links | Status |
-| :--: | :-----: | :---: | :----: |
-| FiraClient | **1.12.2** | [GitHub][Fira GitHub] | Archived |
-| Gamesense | **1.12.2** | [GitHub][OG GS GitHub] | Archived |
+| Name        | Version | Links | Status |
+| :--:        | :-----: | :---: | :----: |
+| FiraClient  | **1.12.2** | [GitHub][Fira GitHub] | Archived |
+| Gamesense   | **1.12.2** | [GitHub][OG GS GitHub] | Archived |
 | [Kami Blue] | **1.12.2** | [GitHub][KB GitHub] | Archived |
-| Luchadora | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
-| Momentum | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
-| Past | **1.12.2** | [GitHub][Past GitHub] | Archived |
-| [postman] | **1.12.2** | [GitHub][Postman GitHub] | Archived |
+| Luchadora   | **1.12.2** | [GitHub][Luchadora GitHub] | Archived |
+| Momentum    | **1.12.2** | [GitHub][Momentum GitHub] | Archived 
+| Past        | **1.12.2** | [GitHub][Past GitHub] | Archived |
+| [postman]   | **1.12.2** | [GitHub][Postman GitHub] | Archived |
 
 [Fira GitHub]: https://github.com/cout970/FiraClient
 [OG GS GitHub]: https://github.com/IUDevman/gamesense-client
