@@ -67,7 +67,7 @@ A modloader is exactly what it sounds like: it loads mods, hence "mod loader". T
 [Bloomware Github]: https://github.com/TheBreakery/Bloomware-Lite
 
 [Coffee Discord]: https://discord.gg/yxEbQCdDus
-[Coffee GitLab]: https://github.com/Coffee-Client/Coffee
+[Coffee GitHub]: https://github.com/Coffee-Client/Coffee
 
 [Hypnotic]: https://hypnotic.dev/
 [Hypnotic Discord]: https://discord.gg/aZStDUnb29
